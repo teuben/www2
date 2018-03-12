@@ -1,0 +1,40 @@
+M.C. Juan Carlos Gomez
+Instituto Nacional de Astrofisica, Optica y Electronica
+Luis Enrique Erro No. 1, Tonantzintla, Puebla, Mexico
+jcgc@inaoep.mx
+(222)266-31-00 ext. 8307
+Mexican
+Graduate student
+
+Presentation: Poster
+Title: Determination of initial conditions of M81 triplet using Evolution
+Strategies
+
+Abstract:
+
+In this work we present Evolution Strategies (ES) as an efficient method
+to approximate the initial conditions of the main interacting group of
+three galaxies in M81.
+
+The M81 group is one of the nearest groups of galaxies. Its biggest
+galaxy, M81, sits in the core of the group together with its two nearby
+companions M82 and NGC3077. The interaction between these three galaxies
+is very well defined on an image taken in HI. In this first attempt we use
+non-self-gravitating simulations to approximate the initial conditions;
+even with that restriction our method reproduces the density distribution
+of the three galaxies with great precision.
+
+Results presented here show that ES is an ideally suited method to work in
+optimization problems in Astrophysics, where the solution is hard to find
+by common methods. In particular we argue that ES is a good method to find
+initial conditions of groups of interacting galaxies, where a large number
+of parameters need to be determined.
+
+Requested Financial Aid:
+Hotel for 4 nigths
+Registration Fee
+
+
+Letter of recommendation:
+Name: Dr. Raul Mujica
+Email: rmujica@inaoep.mx

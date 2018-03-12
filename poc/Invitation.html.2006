@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.2//EN//">
+<HTML>
+<HEAD>
+<TITLE>ADASS Program Organizing Committee - Invitation</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#ffffff">		<!-- white background -->
+
+<H1 ALIGN=CENTER>ADASS Program Organizing Committee</H1>
+
+<!-- Navigation panel -->
+
+<CENTER><SMALL>
+<A HREF="http://www.adass.org/"><B>ADASS Home</B></A> &#183;
+<A HREF="http://www.adass.org/POC.html">Membership</a> &#183;
+<A HREF="POC_HowTo.html">Member Duties</a> &#183; 
+<A HREF="Invitation.html">Invitation Template</a> 
+</SMALL>
+<IMG SRC="color_rule.gif" WIDTH="100%"><BR>
+<SMALL>
+<A HREF="LOC_HowTo.html">LOC Planning</a> &#183; 
+<A HREF="Program_01.html">Draft Program</A> &#183; 
+<A HREF="FinancialAid.html">Financial Aid Info.</A> &#183; 
+<A HREF="Speakers_01.html">Invited Speakers</A> &#183; 
+<A HREF="http://www.adass.org/PaperPolicy.html">Paper Policies</a> 
+</SMALL></CENTER>
+
+<H2 ALIGN=CENTER>"Boiler plate" ADASS Key Speaker Invitation</H2>
+
+<P>Dear [potential speaker], </P>
+
+<P>
+[Customized introductory verbiage... ]
+The organizers of the Astronomical Data Analysis Software and Systems (ADASS) 
+conference have been working on the program for this year.  The Committee is 
+very keen to have you speak on your work related to [designated topic], 
+and we would be delighted if you would accept our invitation to speak this 
+year, with the specific focus of your talk to be left to your discretion.  
+One of the key topics in this year's program is [key topic name], and your 
+talk would make a great contribution in this area.  </P>
+
+<P>
+This year's conference will be held from 15 to 18 October at the Westin
+La Paloma Resort in Tucson, AZ, USA, and will be hosted locally by the
+National Optical Astronomical Observatory (NOAO), National Solar Observatory
+(NSO), and Steward Observatory at the University of Arizona.
+You can browse the ADASS Web
+pages at: http://www.adass.org/ for background information about the 
+ADASS conference.  More details about this year's conference will be
+available at: http://www.adass.org/adass2006. </P>
+
+<P>
+The ADASS attendees are typically about 50% programmers, 20% technical
+leads/project managers, and the remainder being scientists ranging from
+grad students to senior astronomers.  Roughly 70% list astronomical 
+research among their professional activities. We strive to keep the program
+strongly rooted in astronomy by including some speakers who describe
+the (often quite innovative) analysis they do in the course of their
+scientific research.  Your talk should be about 25 min in length to
+allow about 5 min for discussion.  The proceedings will be published
+on the Web and in the ASP Conference Series; if you agree to speak we 
+expect to be able to accommodate your written contribution of up to 10 
+pages. </P>
+
+<P>
+You should know that the conference registration fee is waived for
+invited speakers and we hope that they will attend most, if not all, of
+the conference.  We do ask that you submit your abstract in a timely
+manner so that it can be included on the final program, as well as on the
+Web version of the preliminary program. (See the information regarding
+deadlines on the Web page above.) </P>
+
+We would be very pleased to have you speak at ADASS this year. 
+[customized verbiage about why speaker is a great "match" with ADASS]. </P>
+
+<P>
+Please let me know fairly soon, preferably within the next week, whether
+you can accept this invitation so that the program can be finalized. </P>
+
+<ADDRESS>
+Regards,<BR>
+Joe POC<BR>
+[title, institution, etc.]
+</ADDRESS>
+
+<!-- End of main content. Bottom matter follows. -->
+
+<P>
+<IMG SRC="color_rule.gif" WIDTH="100%" ALIGN="BOTTOM">
+
+<P ALIGN=CENTER><B><!-- Copyright --><FONT SIZE=-1><A
+HREF="http://www.stsci.edu/policy/Copyright.html">Copyright</A>
+&copy; 2006 The Association of Universities for Research in Astronomy, Inc.
+All Rights Reserved. </FONT></B></P>
+
+<P>
+<ADDRESS><B>ADASS Program Organizing Committee 
+<A HREF="mailto:poc@adass.org">(poc@adass.org)</A></B>
+</ADDRESS>
+
+<P><I>Last updated 2006-04-10</I>
+</BODY>
+</HTML>

@@ -1,0 +1,25 @@
+Presentation Information
+-----------------------------
+Requested Presentation Type:    Poster
+
+Presentation Title:
+Description of radio spectra and multi frequency data as one object
+
+Presentation Abstract:
+
+We discuss a problem of description of multi frequency data.
+It appears in tasks of radio spectrum fitting for separate sources
+and of incorporation of single source information into the system
+of catalogues processed like in the CATS database (http://cats.sao.ru).
+We developed FITS-like format allowing one to describe analytical
+spectrum curves unified with multi frequency data of flux density
+measurements.
+This approach has been used in description of spectra of
+decametric radio source and identified objects with multi frequency
+catalogues in the CATS database. Resulting data have been incorporated
+into the CATS and opened for astronomical community.
+The developed format is occurred very useful in spectrum fitting procedures
+and component separation of radio continuum spectral data.
+Problems of identification and data storage of new class of objects in the
+CATS are discussed. Examples of FITS-like formats are given.
+

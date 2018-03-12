@@ -1,0 +1,50 @@
+ADASS'03 FINANCIAL AID REQUEST FORM
+
+Name:		Alexei Pozanenko
+Pozition Title:	Senior Scientist
+Institution:	Space Research Institute (IKI)
+Address:	Profsojusnaja str. 84/32, 117997, Moscow, Russia
+Email address:	apozanen@iki.rssi.ru
+phone:		(+7095)3331522
+Citizenship:	Russia
+
+Requested Financial Aid: Hotel for 4 nights, Registration Fee, partial cover of travel (EU 150)
+
+Curriculum Vita:
+
+Education: 	M.S.   Moscow  Physical-Technical Institute (Physics), 1985
+Ph.D.  Space Research Institute (Astrophysics), 1991
+Professional Appointments:
+ Scientific Researcher, Senior Scientific Researcher, Space Gamma Ray Spectroscopy Lab,
+	Space Research Institute, 1985 - present time
+Research Experience:
+	Gamma-Ray Spectrometer Experiment APEX for Russian PHOBOS mission (1987-89)
+	Precision Gamma-Ray Spectrometer Experiment (PGS) for MARS-96 mission, Co-I (1992-96)
+	CGRO Cycle 5 GI: "A Search for High Energy Component of Cosmic Gamma-Ray Bursts by Averaging BATSE, COMPTEL and EGRET Data", Co-I  (1995-96)
+	CGRO Cycle 6 GI: "Statistical Study of Cosmic Gamma-Ray Bursts Flux/Spectra Variability", Leading Co-I (1996-97)
+	CGRO Cycle 6 GI: "Statistical Study of QPO and Flare-like Variability of A0535 and 4U 1700  Transients" (renamed),   Co-I  (1996-97)
+	CGRO Cycle 7 GI: "Generic Signatures of Flux/Spectral Variability of GRBs for Testing Source Models", Co-I (1997-98)
+	INTAS Program: "Study of basic properties of cosmic Gamma-Ray Bursts using available data and  mathematical simulations", Leading Co-I, (1998-2000)
+	CRDF Program: "Rapid follow-up optical observations of cosmic Gamma-Ray Bursts", PI, (2002-2004)
+
+List of selected publications: 
+ 
+
+I.G. Mitrofanov, ... A.S. Pozanenko,  et al., The Average Intensity and Spectral Evolution of BATSE Cosmic Gamma-Ray Bursts, ApJ, 459, 570, 1996.
+
+K.P. Ziok, ..., A.S. Pozanenko, et al., The Gamma-Ray Burst Monitor for the Russian Mars 1996 Mission, IEEE 
+Trans.Nucl.Sci. 1997. V.44. No.4. 1692
+
+I.G. Mitrofanov, ... A.S. Pozanenko,  et al., Generic signatures of the time profiles of BATSE cosmic  Gamma-Ray Bursts,  Ap. J., 504, 925, 1998.
+
+Pozanenko A.S., Mitrofanov I.G., Litvak M.L., Briggs M.S., Paciesas W.S., Preece R.D., Pendleton G.N. and Meegan C.A., Gamma-Ray Bursts: Searching for Invariants, in Proc. of   AIP Conference
+"4rd Huntsville Symposium on Gamma-Ray Bursts", 1998. 
+
+C. Bartolini, G. Beskin, ... A. Pozanenko, GRB Optical Afterglows: Correlation Between Pair of Parameters, in Proceedings of the conference of Gamma Ray Bursts in the Afterglow Era, Rome, 2000.
+
+A.Pozanenko, V.Loznikov, High Frequencies in Power Spectrum of Gamma-ray Bursts, in  
+Lighthouses of the Universe,  M.Gilfanov, R.Sunyaev, E.Churazov, eds., 2002, p.194, (Springer-Verlag) 
+ 
+Pozanenko, A.; Chernenko, A.; Beskin, G.; Plokhotnichenko, V.; Bondar, S.; Rumyantsev, V., 
+Synchronous Observations by Ground Based Optical and X-ray Space Born Telescopes, Astronomical Data Analysis Software and Systems XII ASP Conference Series, Vol. 295, 2003 H. E. Payne, R. I. Jedrzejewski, and R. N. Hook, eds., p.457
+ 

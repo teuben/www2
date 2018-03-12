@@ -1,0 +1,17 @@
+Presentation Information 
+
+Requested Presentation Type  Oral
+Presentation Title           Information system on binary stars
+Presentation Abstract 
+
+We present an Information system on binary stars (ISBS). The main goal
+of the system is to collect information on masses and other
+astrophysical parameters of components of binary/multiple systems. A
+current version of ISBS contains astronomical data catalogues, related
+to observations of eclipsing binary stars. The present interface gives
+access to the summary description of the catalogues either by GCVS
+identifier or by evolutionary type. The ISBS allows user to make
+statistical investigations as well as to obtain data on a particular
+binary system.
+
+

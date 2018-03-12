@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+	<title>ADASS Conference Series</title>
+	<base href="http://www.adass.org/">
+</head>
+
+<body bgcolor="white" link="#cc0000" vlink="#993399">
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+<!--    Header   -->
+<tr valign="top">
+    <td colspan="4" valign="top" align="middle" bgcolor="white">
+	<img border="0" width="317" height="124" src="gifs/adass_org.gif" 
+	ALT="ADASS Conference Series"><NOBR>
+	<img border="0" width="18" src="gifs/1_tr.gif">
+    </td>
+</tr>
+
+<!--   Navigation   -->
+<tr valign="top">
+    <td valign="top" rowspan="2" bgcolor="white" width="5"></td>
+    <td valign="top" bgcolor="white" width="130">
+	<img border="0" width="130" height="1" src="gifs/1_tr.gif"><br>
+	<!-- img border="0" hspace="5" vspace="4" alt="" SRC="gifs/1_tr.gif" -->
+	<img border="0" hspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org/">
+	<font size="3"><B>ADASS Home</B></font></a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+        <a href="http://www.adass.org:8080/Conferences/">
+	Past/Future Venues</a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://adass.org/adass2005/">
+	ADASS 2005</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="./adass/proceedings">
+	e-Proceedings</a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org/adass/authors/">
+	Author Instructions</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org:8080/Conferences/ADASS/Database">
+	Database Search</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="PaperPolicy.html">
+	Paper Policies</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	Organizing Committees
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="POC.html">
+	POC</a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org:8080/meetings/adass2003/people/organizers">
+	LOC</a>
+	<br><br>
+	</FONT>
+    </td>
+
+<!--   Vertical Rule   -->
+    <td valign="top" bgcolor="white" width="5">
+	<img src="gifs/vertical_rule.gif" width="1" height="300"></td>
+
+<!--   Data Space   -->
+    <td rowspan="2" valign="top" bgcolor="white" width="480">
+	<table border="0" cellpadding="5" cellspacing="0" width="490">
+	<tr>
+	    <td colspan="2"><h2>Astronomical Data Analysis Software &amp; Systems</h2></td>
+	</tr>
+
+<!--   Introduction and important info   -->
+
+	<TR VALIGN="TOP">
+	    <TD VALIGN="TOP">
+		<A HREF="http://adass.org/">
+		<img border="0" width="286" height="150" ALT="ADASS 2005" 
+		src="gifs/ADASS05Logo.jpg"></A>
+	    </TD>
+            <TD>
+		<FONT SIZE=4><STRONG>
+		Plan to Attend ADASS 2005 </STRONG></FONT>
+		<BR>
+		<P>The 
+		<A HREF="http://adass.org/">ADASS 2005</A>
+		conference will be held in San Lorenzo de El Escorial, Spain 
+		from <B>2-5 October 2005</B>. 
+		The conference is hosted by 
+		(<A HREF="http://www.esa.int">ESA</A>). 
+		</P>
+<!--
+		<img src="gifs/new.gif" alt="New"><STRONG>
+		<A HREF="./adass/proceedings/adass03/">
+		Electronic Proceedings</A> for ADASS 2003 now available! 
+		</STRONG></FONT>
+-->
+		</P>
+            </TD>
+        </TR>
+
+	<tr>
+	    <td colspan="2">
+		<P>
+		The <B>Astronomical Data Analysis Software and Systems 
+		(ADASS)</B> conference is held each year at a different 
+		hosting astronomical institution.  The conference provides a 
+		forum for scientists and programmers concerned with algorithms, 
+		software and software systems employed in the acquisition, 
+		reduction, analysis, and dissemination of astronomical data.  
+		An important element of the program is to foster communication 
+		between developers and users with a range of expertise in the 
+		production and use of software and systems.  The program 
+		consists of invited talks, contributed oral and display papers, 
+		tutorials, user group meetings and special interest group 
+		meetings (called BOFs). </P>
+	    </TD>
+	</tr>
+
+<!--   Announcements -->
+<!--   Other Conferences   -->
+        <tr valign="top">
+            <td colspan="2" align="top">
+		<FONT SIZE=5><STRONG>
+		Other Meetings of Interest</STRONG></FONT>
+		<BR>
+		<DL>
+		    <DT><B>VOEvent Workshop</B><BR></DT>
+		        A <A HREF="http://www.ivoa.net/twiki/bin/view/IVOA/VoeventWorkshop">
+			VOEvent Workshop,</A> <DD>
+			will be held at the CACR on the campus of the  
+			California Institute of Technology, in Pasadena, CA, USA
+			from 13-14 April 2005. </P>
+			</DD>
+		   
+		    <DT><B>Telescope Networks Workshop</B><BR></DT>
+		        The <A HREF="http://htn-workshop2005.ex.ac.uk/">
+			Heterogeneous Telescope Networks Workshop </A>
+			<DD>
+			will be held at the Southgate Hotel in Exeter, UK 
+			from 18-21 July 2005. </P>
+			</DD>
+		   
+		</DL>
+            </td>
+        </tr>
+
+	</table>
+    </td>
+</tr>
+
+<!--   Dummy table row entry   -->
+<tr valign="top">
+    <!-- Dummy -->
+    <td valign="bottom" bgcolor="white" colspan="2" rowspan="2" width="130">
+              &nbsp;</td>
+    <td valign="bottom" bgcolor="white" width="5">&nbsp;</td>
+</tr>
+
+<!--   Copyright   -->
+<tr valign="top">
+    <td valign="bottom" bgcolor="white" width="5"></td>
+    <td valign="bottom" bgcolor="white" width="460">
+	<div align="center">
+	<FONT SIZE=1>Copyright &copy; 2005
+	The Association of Universities for Research in Astronomy, Inc.
+	All Rights Reserved. </FONT></B></div>
+    <td>
+</tr>
+</table>
+</body>
+
+</html>

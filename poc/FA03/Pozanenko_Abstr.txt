@@ -1,0 +1,51 @@
+Presentation Information
+
+Presentation type: Oral
+Presentation title: 
+Wide Field Optical Camera for search of fast cosmic transients
+
+Abstract: 
+
+An automatic wide-field optical camera (WFOC) has been developed, manufactured 
+and tested by Space Research Institute (IKI) in collaboration of State 
+Research Center "Kosmoten" and Special Astrophysical Observatory.  Owing to 
+its unique objective lens (D=150 mm, F=1:1.2), image intensifier (scaling 
+factor 4.5:1, amplification coefficient 120) and TV-class CCD matrix this 
+camera allows for continuous monitoring of  15x20 deg. FOV with the 
+sensitivity up to 12m and time resolution of 0.1 s. The real-time software 
+is able to perform on-the-fly identification of transient celestial sources 
+and estimate their brightness and location parameters.
+
+The primary purpose of this WFOC is to perform continuous, alert-independent 
+observations of optical transients and variable astrophysical sources 
+simultaneously with space-born wide-field X-ray and gamma-ray telescopes. 
+All the high time resolution data are stored in a data base for a limited 
+amount of time and then used for multiwavelength correlative analysis using 
+X-ray, gamma-ray and radio data. At the same time, the real-time source 
+identification software generates alerts that could be sent to global alert 
+distribution networks such as GCN. We estimate that within one year of 
+continuous observation with WFOC we will observe simultaneously with space 
+born telescopes  the following  numbers of GRB error boxes: 1.6 (WXM/HETE-2), 
+0.5 (SPI/INTEGRAL), and 4 (BAT/SFIFT). This estimation takes into account 
+duty cycles of the telescopes.
+
+Within 1 year we plan to manufacture at least one more similar WFOC which 
+can be deployed, together with necessary network infrastructure, at one of 
+the major FSU optical observatories. In this setup the WFOC-generated alerts 
+would be sent locally to the mid-size automated optical telescope via LAN, 
+initiating slewing of this telescope to the positions of the identified 
+optical transients within 1 minute from the moment of its detection. With 
+such a fully autonomous dual system we would be able to detect and perform 
+photometry, spectroscopy and polarimetry with high sensitivity of prompt 
+optical emission of both long and short duration Gamma Ray Bursts (GRB), 
+optical flashes preceding gamma-ray emission in GRBs, GRB afterglows not 
+identified in X-rays (orphans afterglows), optical outbursts related to 
+Soft Gamma Repeaters, possible fast optical supernova precursor, optical 
+flashes of LMXBs, X-ray novae and other compact X-ray transients, cataclysmic 
+variables and related star. The WFOC could be an essential part of Virtual 
+Observatory for sky survey with high time resolution.
+
+We discuss details of WFOC, including software development for real-time 
+transient identification and correlative analysis. Results of calibration 
+of WFOC and continuous survey since May 2003 are presented.
+

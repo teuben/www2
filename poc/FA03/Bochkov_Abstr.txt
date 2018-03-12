@@ -1,0 +1,23 @@
+Presentation Information
+
+Requested Presentation Type: Oral (or Poster)
+
+Presentation Title: Automation of Spectrophotometric Data Processing
+
+Presentation Abstract:
+A prototype of 32-bit database application for Windows was developed for the 
+task to obtain absolute energy spectral distributions of observed object.
+Automation process of spectral data absolute energy calibration based on GUI 
+interface capabilities, special scripting language development and using 
+special structure databases of spectra.  Spectral data analysing includes 
+continuum normalisation, spectral bands centre definition, stellar magnitudes 
+calculation, and photometric light curve demonstration.  
+
+A set of C++ classes was created to provide functionality of the process.
+The developed system allows creating catalogues of standard stars spectral
+distributions, databases of different objects spectral observations and
+photometric light curves.  The application utilises the client/server model 
+with Windows Socket functionality based on TCP/IP protocol and provides DDE 
+facilities in server mode.  This software is used also for acquisition and 
+analysing spectral observations of asteroids.
+

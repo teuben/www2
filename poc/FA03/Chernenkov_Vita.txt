@@ -1,0 +1,95 @@
+Subject: ADASS2003
+From: Vladimir Chernenkov <vch@sao.ru>
+Date: Thu, 17 Jul 2003 15:33:50 +0400 (MSD)
+To: adass2003@newb6.u-strasbg.fr
+
+Applicant Information
+
+  * Name of Applicant  Vladimir Chernenkov
+  * Position Title     Ph.D, senior researcher
+  * Institution        Special Astrophysical Observatory of RAS
+  * Postal Address     369167, b.2, app.64, Niznij Arkhyz,
+		       Karachajevo-Cherkesia, Russia
+  * Email Address      vch@sao.ru
+  * Phone Number       7-901-4954941, 7-878-7846508
+  * Citizenship        Russia
+  * Academic Level (if applicant is a student):
+
+  * Vita and Bibliography
+Born in 1956, in Moscow Reg. Graduated from the Department of Automatic,
+Tele-Mechanic and Electronic of the Moscow Technical University
+of Communications and Informatics as radio-engineer.
+1980-1984 - study on a post graduate course in Images Processing,
+Scientific supervisor  - Prof. V.N.Ulianov.
+Then I carried out  University scientific investigations for the Special Astrophysical Observatory
+of Russian Academy of Sciences, where I work now as a senior researcher of
+Informatica Department. 1993-1996 - study on a course in Radio Astronomy.
+Scientific supervisor  - Prof. Y.N.Parijskij.
+1996 - defended PhD thesis on Facilities for the development of a multilevel
+territorially distributed data acquisition and processing system of the radio
+telescope RATAN-600.
+Participation in the project "Russian Virtual Observatory".
+My work experience: investigation of radio sources
+(http://cats.sao.ru/);
+System programming with C, Perl, bash, SQL, Java, Python,
+HTML; FITS format implementation for the SAO RAS observation data;
+information system and network design for the SAO RAS: CATS, SED;
+support of Internet Cisco Systems Co. equipments.
+
+My home page: http://www.sao.ru/hq/vch/
+Publications: about 100 papers, theses, reports.
+
+* Bibliography
+1. Bursov N.N., Verkhodanov O.V., Erukhimov B.L., Lipovka N.M., Pjatunina T.B.,
+Soboleva N.S., Temirova A.V., Chernenkov V.N.
+Determination of parameters of radio sources with the method of "declination
+cross-sections" under the unmovable secondary mirror at the RATAN-600.
+Astrofizik. Issledovanija, 28, 136-149 (1989)
+2. Chernenkov V.N., Erukhimov B.L., Likhvan O.P., Monosov M.L., Shergin V.S.,
+Verkhodanov O.V., Zhelenkova O.P., Basic principles of flexible
+astronomical data processing system in UNIX environment,
+"Astrophizicheskie Issledovaniya", 36, 132-137, 1992.
+3. Chernenkov V.N., A spike immunity method of digital integrating radiometer
+signals. "Astrophizicheskie Issledovaniya",  41, 148-152, 1996
+4. Oleg V. Verkhodanov, Alexander I.Kopylov, Olga P. Zhelenkova,
+Natalia V. Verkhodanova, Vladimir N. Chernenkov, Yurij N. Parijskij,
+Natalia S. Soboleva, Adelina V. Temirova, The software system
+"Evolution of radio galaxies", 2000, Astronomical and Astrophysical
+Transactions, v.19, pp 663-667
+5. V.Vitkovskij, V.Chernenkov, A.Ivanov, V.Gurin, N.Kalinina, V.Komarov,
+S.Moiseev, A.Nazarenko, V.Shergin, O.Zhelenkova,
+The remote access system for the largest Russian Telescopes BTA and RATAN-600,
+Baltic Astronomy, 2000, v.9, N4, pp 527-531
+6. V.Vitkovskij, V.Chernenkov, N.Kalinina, T.Kiyashko, V.Kondratenko,
+L.Pischik, V.Shergin, O.Zhelenkova,
+The project of distributed information system OASIS,
+Baltic Astronomy, 2000, v.9, N4, pp 578-582
+7. O.V. Verkhodanov, A.I.Kopylov, O.P. Zhelenkova, N.V. Verkhodanova,
+V.N. Chernenkov, Yu.N. Parijskij, N.S. Soboleva, A.V. Temirova,
+Creation of a database of spectral energy distributions of radio galaxies,
+2000, Baltic Astronomy, v.9, N4, pp 668-669
+8. Trushkin S. A., Verkhodanov O. V.,  Chernenkov V. N., Andernach H.
+2000.  CATS - The Largest Radio Astronomical Database: Galactic
+Facilities. Baltic Astronomy, v.9, p.608-612.
+9. Verkhodanov O. V., Trushkin S. A., Chernenkov V. N., Andernach H.
+2000. CATS - The Largest Radio Astronomical Database: Extragalactic
+Facilities.  Baltic Astronomy, v.9, p.604-607.
+10.  Y.Parijskij, V.Chernenkov. On Post-SKA radio astronomy.
+Astrophysics and Space Science 278: 199-204, 2001
+Kluwer Academic publishers, Nl.
+11. V.Vitkovskij, O.Zhelenkova, N.Kalinina, V.Chernenkov, and V.Shergin
+The Russian Vurtual Observatory Project Insight
+Proc. Conf. 'Toward International Virtual Observatory' (in press)
+12. Oleg V. Verkhodanov, Vladimir K. Kononov, Alexander I. Kopylov,
+Olga P. Zhelenkova, Vladimir N. Chernenkov
+System to study evolution of radio galaxies as a part of a virtual
+radio observatory, Proc. Conf. 'Toward International Virtual Observatory'
+(in press)
+
+
+Requested Financial Aid
+
+    * Hotel (up to 4 nights): yes
+    * Registration Fee:       yes
+    * Demo Fee:               no
+

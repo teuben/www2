@@ -1,0 +1,51 @@
+Subject: Financial aid
+From: christophe bonnaud <cbonnaud@obs.univ-lyon1.fr>
+Date: Fri, 18 Jul 2003 15:28:35 +0200
+To: adass2003@newb6.u-strasbg.fr
+
+Dear Madam, Dear Sir,
+
+this is my request for Financial Aid :
+
+Name : BONNAUD Christophe
+Position : Student
+institution : CRAL (Centre de Recherche Astronomique de Lyon)
+
+adress : Observatoire de Lyon
+         9 avenue Charles André
+         69561 Saint Genis Laval cedex
+
+email : cbonnaud@obs.univ-lyon1.fr
+phone : 04 78 86 83 81
+citizenship : French
+Academic Level : Phd student
+vita : sent by Pierre Ferruit ( pierre@obs.univ-lyon1.fr )
+
+Presentation abstract: sent by Pierre Ferruit ( pierre@obs.univ-lyon1.fr  )
+
+Requested Financial Aid : Hotel (4 nights at 53 ¤) and Registration Fee.
+
+Letter of recommendation : sent by Pecontal Emmanuel ( Pecontal@obs.univ-lyon1.fr )
+
+thanks.
+
+
+Presentation title : a numerical simulation of SNIFS instrument.
+Requested Presentatin : Oral
+
+
+In the recent years, type Ia supernovae studies took considerable importance 
+in cosmology,  owing to  the fact  that they  are probably standard candles. 
+To get rid of this ``probably'', it is necessary to study a large sample of 
+nearby supernovae in an homogeneous way. This led a Franco-American consortium 
+to build the Supernova Integral Field Spectrograph (SNIFS), which will aim at 
+observing more than 400 supernovae during the next 2-3 years. To be able to 
+help the instrument definition, to predict the instrument performances and to 
+allow for an early development of the data reduction software, we have 
+developed a numerical simulator of this instrument as realistic as possible. 
+This implies to account for all physical phenomena that, one way or another, 
+disturb the incident object wave front. We will describe the strategy adopted 
+to treat all the disturbances and the different steps of the wave-front 
+propagation through the instrument. The model we used is based mainly on 
+Fourier optics and use Zernike polynomials phase masks to handle the effects 
+of the atmosphere and the optical aberrations of the instrument. 

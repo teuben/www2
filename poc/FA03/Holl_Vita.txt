@@ -1,0 +1,116 @@
+Name: Andras Holl
+Position: IT Systems Manager
+Institution: Konkoly Observatory of the Hungarian Academy of Sciences
+Postal address: H-1525 Budapest, P.O.Box 67, Hungary
+Email: holl@konkoly.hu
+Phone: (36) 13919368
+Citizenship: Hungarian
+
+                           CURRICULUM VITAE
+
+NAME: Andras Holl
+
+ADDRESS: Konkoly Observatory, H-1525 Budapest, P.O.Box 67
+         Tel: +36 1 3754122
+ 
+DATE AND PLACE OF BIRTH: 25th of August, 1959, Budapest, Hungary.
+
+CITIZENSHIP: Hungarian
+
+UNIVERSITY: Eotvos University, Budapest; Geophysics and Astronomy; 
+            1978-84.
+
+JOB: Konkoly Observatory, Budapest, Hungary; system manager of the
+     computer facilities; technical editor of the IBVS  
+
+
+PAST PROJECTS: DENIS (Deep Near-Infrared Survey of the Southern Sky,
+                      P.I.: N. Epchtein)
+
+PROFESSIONAL VISITS: Sterrewacht Leiden (1991-1998, about 2 years)
+                     IAP Paris (1994, 1995)
+
+PROJECTS: - KONKOLY OBS. COMPUTER SYSTEM
+          - Information Bulletin on Variable Stars
+          - EOTVOS University, DEPT. of ASTRONOMY: lectures on astronomical
+                                              computing
+
+
+                         Bibliography
+
+-      K. Olah, L. Gesztelyi, A. Holl: 1987, 'Starspot proper motion in HK Lac',
+       Xth ERAM, Proceedings (Ed. Petr Harmanec). p. 95 
+
+-      A. Holl: 1990, 'Starspot modelling with PC-s at Konkoly Observatory' , 
+       Contr. Astron. Obs. Skalnate Pleso, Vol, 20, p. 139 
+
+-      L.G. Balazs, J. Eisloffel, A. Holl, J. Kelemen, and M. Kun: 1992, 
+       'The optical counterpart of the IRAS point source 22343+7501', 
+       Astronomy & Astrophysics, Vol. 255, p. 281 
+
+-      A. Holl, E. Deul: 1992, 'DENIS - a forthcoming infrared survey', 
+       Astronomy from large databases II (eds.: A.  Heck and F. Murtagh), p. 337 
+-      P. Abraham, M. Kun, L.G. Balazs, A. Holl, and A. Fronto: 1993, 
+       'The infrared environment of 6 Cephei', Astronomy & Astrophysics, 
+       Vol. 268, p. 230 
+
+-      E. Deul, A. Holl, N. Epchtein: 1993, 'DENIS: source extractions', 
+       Astronomical Data Analysis Software and Systems III., 
+       eds. D. Crabtree et al., p. 131, ASP Conf. Ser. Vol. 61. 
+
+-      A. Holl, E. Deul: 1994, 'The influence of crowding on DENIS point source
+       detection rates', Astrophysics and Space Science, Vol. 217, p. 19 
+  
+-      E. Deul, A. Holl, F. Guglielmo et al.: 1995, 'Data Processing for the 
+       DENIS project', Memorie della Societa Astronomica Italiana, Vol. 66, 
+       No. 3., pp 549-566. 
+
+-      T. Le Bertre et al.: 1995, 'The Deep Near-Infrared Survey of the 
+       southern sky (DENIS)', ESO/ST-ECF Workshop on Calibrating and 
+       Understanding HST and ESO Instruments, p. 195 - 204
+
+-      A. Holl: 1996, 'Guide to the Konkoly Observatory Computer System', 
+       Konkoly Observatory Occasional Technical Notes 2. 
+
+-      A. Holl: 1996, 'Survival guide to the local computer system', 
+       Konkoly Observatory Occasional Technical Notes 4. 
+
+-      A. Holl: 1996, 'The electronic IBVS', 
+       Konkoly Observatory Occasional Technical Notes 5. 
+
+-      N. Epchtein et al.: 1997, 'The Deep Near-Infrared Southern Sky Survey 
+       (DENIS)', The Messenger, No. 87, March, pp 27-34 
+
+-      A. Holl: 1998, 'Literature and catalogs in electronic form: questions, 
+       ideas and an example: the IBVS',
+       Proceedings of ADASS'97; ASP Conf. Ser. 145., pp 474-477 
+
+-      N. Epchtein et al.: 1999, 'A preliminary database of DENIS point 
+       sources', Astronomy & Astrophysics, 349, pp 236-242 
+
+-      A. Holl: 2000, 'Piszkesteto Mountain Station - Guide to the computer 
+       system', Konkoly Observatory Occasional Technical Notes 7. 
+
+-      IBVS CD-ROM, Konkoly Observatory, Budapest, 2000. Editors: A. Holl and 
+       C. Sterken 
+
+-      IBVS CD-ROM, Vol. II. Konkoly Observatory, Budapest, 2001. Editors: 
+       A. Holl and C. Sterken 
+
+-      A. Holl: 'Manuscript preparation, submission and features of the 
+       electronic IBVS', 2002, submitted for the proceedings of ADASS 2002
+
+-      A. Holl: 2002, 'Journals on the web -more than text', iAstro/IDHA 
+       workshop, Strasbourg 
+
+-      A. Holl: 2002, 'Technical description of the electronic IBVS services', 
+       Konkoly Observatory Occasional Technical Notes 13. 
+
+-      A. Holl, M. Vargha: 2003, 'OBSERVATORY PUBLICATIONS - QUO VADIS?', 
+       LISA IV. conference proceedings, USNO, Ed.: B.Corbin, E. Bryson & 
+       M. Wolf; p. 109. 
+
+
+Requested financial aid: Registration fee
+
+

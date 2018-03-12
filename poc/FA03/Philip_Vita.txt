@@ -1,0 +1,180 @@
+Application for Financial Aid}
+
+Applicant Information}
+
+
+\subitem{\begin{tabular}{|l|l|}
+   \hline Name of Applicant & Ninan Sajeeth Philip \\
+    \hline  Position Title & Lecturer Selection Grade\\
+    \hline  Institution & St. Thomas College, Kozhencherry\\
+    \hline  Postal Address & Ninan Sajeeth Philip,\\
+    & Department of Physics,\\
+    & St. Thomas College,\\
+   & Kozhencherry - 689 641\\
+   & Kerala State,\\
+   & India.\\
+   \hline   Email Address & nsp@stthom.ernet.in\\
+   \hline   Phone Number  & 91- 469 - 2660510\\
+   \hline   Citizenship   & INDIAN\\
+   \hline  Academic level & PhD \\ \hline
+     
+\end{tabular}}}
+
+\item{{\bf Vita and Bibliography} (maximum 2 printed pages)
+
+\subitem{{\bf A brief introduction to my research field:} I work on designing
+machine learning tools for automated classification and regression problems.
+These tools, aka Artificial Neural Networks (ANN) find application in all areas
+of research where data mining is required. As a graduate student I  have
+developed a fast and efficient neural network model based on Bayesian
+principle for probabilistic estimation of likelihoods. This tool has been
+successfully deployed in many practical problems such as climate prediction
+and stock market prediction. The new tool is called a Difference Boosting
+Neural Network (DBNN). 
+
+{\bf Related publications:}
+\begin{enumerate}
+  \item{Boosting the Differences: A Fast Bayesian classifier neural
+  network , Ninan Sajeeth Philip and K. Babu Joseph, Intelligent Data
+  Analysis, 4(2000) 463-473, IOS press, Netherlands.}
+
+   \item{Adaptive Basis Function for Artificial NeuralNetworks, Ninan
+Sajeeth Philip and K. Babu Joseph, Neurocomputing, Vol.47, 1-4, (Aug
+2002), pp.21-34 Elsevier, Netherlands}
+
+\item{A Neural Network Tool for Analyzing Trends in Rainfall, Ninan
+Sajeeth Philip and K. Babu Joseph, Computers and Geosciences, (2003),
+Vol. 29, no. 2, pp. 215-223, Elsevier, Canada.}
+
+
+ \item{A difference boosting neural network for automated
+classification, N.S. Philip, Yogesh Wadadekar, Ajit Kembhavi, K. Babu
+Joseph, Astronomy and Astrophysics, (2002), 385(3): 1119--1133.}
+
+  \item{Automated Galaxy Morphology: A Fourier Approach, S.C. Odewahn ,
+  S.H. Cohen, R.A. Windhorst, N.S. Philip,  (2002), Astrophysical
+  Journal, 568, 539. }
+
+  \item{Modeling Chaotic Behavior of Stock Indices Using Intelligent
+Paradigms Ajith Abraham, Ninan Sajeeth Philip and P.      Saratchandran,
+International Journal of Neural, Parallel \& Scientific Computations,
+(2003), Volume 11, issues 1 \& 2, pp 143 to 160.}
+
+   \item{Chaos for Stream Cipher, in proc. of Recent Advances in
+Computing and Communications, ADCOM2000, Tata McGraw-Hill, (2000) pp
+35-42.}
+
+   \item{A Bayesian Approach for star-galaxy classification, N.S.Philip,
+K.Babu Joseph, Ajit Kembhavi, Yogesh Wadadekar, in proc.      Automated
+Data Analysis in Astronomy, Narosa Publishing house, (2000) pp.125-132}
+
+   \item{On the predictability of Rainfall in Kerala: an application of
+ABF Neural Network, Lecture Notes in Computer Science(LNCS 2074),
+Springer Verlag, Germany, (2001) pp 400-408}
+
+   \item{Distorted English Alphabet Identification: An application of
+Difference Boosting Algorithm, In proc. of Recent Advances in
+Computing and Communications,ADCOM2000, Tata McGraw-Hill, (2000) pp
+139-143 [Referee's Best Paper Selection]}
+
+
+   \item{Will we have a wet summer? Soft computing models for Long-term
+rainfall forecasting,Ajith Abraham, N.S. Philip, K. Babu      Joseph,In
+proc. of 15th European Simulation Multiconference (ESM2001), Modeling
+and Simulation 2001, Prague (2001), pp      1044-1048. [Best Paper Award
+Selection]}
+
+  \item{Performance Analysis of Connectionist Paradigms for Modelling
+Chaotic Behavior of Stock Indices, Ajith Abraham, Ninan Sajith
+Philip, Baikunth Nath, P. Saratchandran, Second International Workshop
+on Intelligent Systems Design and Applications,      (ISDA'02),
+Computational Intelligence and Applications, Dynamic Publishers Inc.,
+USA, ISBN 096403980X, pp. 181-186, Atlanta,      USA, 2002.}
+ \end{enumerate}
+
+
+At present, I am collaborating with Shaukat N. Goderya at Illinois State
+University, using DBNN for a broader, automated, classification of galaxy
+types. The objective of this study is to classify galaxies into five
+morphological subclasses. The preliminary results showed remarkable
+improvement in classification accuracy from 68\% to 89\% when DBNN was
+used instead of other popular neural network tools. We are in the process of
+publishing this work. }
+
+\subitem{
+\begin{table}\caption{\bf Vita}
+ \begin{tabular} {||l||l||}
+\hline\hline {\bf Name:} & {\bf Ninan Sajeeth Philip.}\\
+\hline Date of birth:  & March 14 1963.\\
+\hline Nationality: & Indian.\\
+\hline Passport Number: & Q603263 issued from Trivandrum dated 4th Nov. 1993.\\
+\hline Official Address: & Selection Grade Lecturer in Physics,\\
+                  & St. Thomas College, Kozhencherry,\\
+                  & Kerala, Pin. 689546, INDIA.\\
+\hline Experience: & Seventeen years, since September 1986.\\
+\hline Residential Address: & Vadakkeparampil, Pullad 689548, Kerala, INDIA.\\
+\hline e-mail ID: & nsp@stthom.ernet.in\\
+\hline Telephone: & +91-469-660510 (Res), 91-468-313246, 314566 (Off)\\
+\hline Fax:       & +91-468-215543\\
+\hline {\bf Educational Qualifications}&\\
+\hline BSc in Physics & 76 \%, Distinction.\\
+\hline MSc in Physics & 69 \%, First Class.\\
+\hline PhD Dissertation: & Studies in Artificial Neural Network Modelling.\\
+\hline PhD Research Guide: & Professor K. Babu Joseph,\\
+                           & (Former) Vice Chancellor,\\
+                           & Cochin University of Science and Technology,\\
+                           & Cochin 682 022, INDIA.\\
+\hline {\bf Research Interests:} & Machine Learning and Cryptography.\\
+\hline {\bf Awards and Scholarships:} & 1. Outstanding Young Person Award,\\
+                                & Indian Junior Chamber, 1992.\\
+                                & 2. Outstanding Staff Member Award,\\
+                                & Staff Association of St. Thomas College, 1996.\\
+                                & 3. Category 'A' Speaker under Theoretical Physics\\
+                                & Seminar Circuit (TPSC) of S.N. Bose National Centre\\
+                                & for Basic Sciences, Calcutta, 2000 - 2002.\\
+\hline {\bf Institutions with which} & 1. Cochin University of Science and Technology,\\
+ {\bf I collaborate in Research:} & Cochin, India.\\
+                            & 2. Inter University Centre for Astronomy\\
+                            & and Astrophysics (IUCAA), Pune, India.\\
+                            & 3. Monash University, Australia.\\
+                            & 4. Arizona State University, Arizona, USA.\\
+                            & 5. Queens University in Belfast, UK.\\
+                            & 6. Illinois State University, USA.\\
+\hline {\bf Other Activities:}    & 1. Co-organizer of three IUCAA Conferences in \\
+                            & Kerala State.\\
+                            & 2. Member, Committee for Curriculum Design, \\
+                            & Mahatma Gandhi University, Kerala State, 1998-99.\\
+                            & 3. Reviewer for 2002 International Workshop \\
+                            & on Intelligent Knowledge Management Techniques, Italy.\\
+                            & 4. Reviewer for Intelligent Systems Design and\\
+                            & Applications 2002 (ISDA 2002), Atlanta.\\
+                            & 5. Web Chair, Intelligent Systems Design and\\
+                            & Applications 2003 (ISDA 2003), Tulsa, USA.\\
+\hline {\bf Home Page URL:} & http://www.iucaa.ernet.in/$\sim$ nspp\\
+
+
+\hline
+\hline
+\end{tabular}
+\end{table}
+}}
+
+
+\item{{\bf Requested Financial Aid:}
+\subitem{\begin{tabular}{|l|l|}
+\hline Hotel & For the period of the Conference.\\
+\hline Registration Fee & Yes.\\
+\hline Demo Fee & No.\\
+\hline International travel & Yes. Due to low conversion value of the Indian \\
+                            & rupee, I am greatly dependent on your support for\\
+                            & my international travel.\\
+
+\hline
+\end{tabular}}}
+
+\item{{\bf Letter of recommendation:} 
+\\ Professor Fionn Murtagh (email: F.Murtagh@qub.ac.uk), Queen's
+University, Belfast  and Stephen Odewahn (email:
+Stephen.Odewahn@asu.edu), Arizona State University, Arizona  who both
+know me personally in my research have agreed to send the letter of
+recommendation for my financial support. }

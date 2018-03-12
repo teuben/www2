@@ -1,0 +1,41 @@
+Presentation Information
+1.
+Requested Presentation Type: Oral
+Presentation Title : I.L.Andronov. "Wavelet and Scalegram Analysis of
+(Irregularly Spaced) Astronomical Signals"
+Presentation Abstract : 
+
+The extensions of the wavelet and scalegram analysis
+for the signals with arbitrary argument distributions have been discussed.
+In an addition to the methods based on least-squares fits with additional
+weight functions for the wavelet (Foster 1996, Andronov 1998, 1999) and
+scalegram (Andronov 1997) analysis, we discuss an application of generalized
+wavelets based on finite or infinite number of mother wavelets. For
+practical applications, the wavelet based on scaled copies of the same
+mother function, is proposed. In the least-squares extension, it becomes
+also an extension of the scalegram. The results of the analysis made using
+the "running parabola fit" with the weight function $(1-z^2)^2)$ are
+compared with that obtained using the Morlet-Foster wavelet analysis.
+General formulae for arbitrary basic and weight functions are presented,
+results for concrete applications are compared.
+
+2.
+Requested Presentation Type: oral or poster
+Presentation Title (preliminary, to be justified by co-authors):
+I.L.Andronov, L.L.Chinarova, J.Cuypers, J.L.Halbwachs, S.Piquard. "Automatic
+Photometric Classification of the Hipparcos-Tycho Suspected Variable Stars"
+Presentation Abstract : 
+
+Results of the time series analysis of 2-channel
+epoch photometry of nearly eight hundred stars suspected in variability from
+the Hipparcos-Tycho project have been presented. The methodological aspects
+for such studies are discussed. The basic periodograms have been computed
+using the third-order trigonometric polynomial. For a hundred of best
+probable periods at the periodogram, the phase light curve was tested both
+for the shape and coincidence in two colors. Besides the trigonometric
+polynomial, specially developed methods for "catching" eclipsing and
+pulsating variables have been developed and used. According to the fit,
+which is the best for given data and trial period, the differential
+corrections for the frequency have been computed.
+Examples of automatic photometric classification are presented.
+

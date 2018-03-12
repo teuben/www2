@@ -1,0 +1,302 @@
+Subject: Financial aid form
+From: "Oleg Yu. Malkov" <malkov@inasan.ru>
+Date: Wed, 9 Jul 2003 10:30:03 +0400
+To: adass2003@newb6.u-strasbg.fr
+CC: malkov@inasan.ru
+
+Dear Marc,
+
+I have just filled in and sent to adass2003@astro.u-strasbg.fr
+my Financial Aid Form. I did it well before the deadline (Jul 18)
+because I am going to attend the IAU GA XXV next two weeks
+(will you be there?).
+
+I have indicated in the form that I ask to cover 4 night staying 
+in an hotel and registration fee. I remember your kind invitation
+to stay in your home, but I remember also that the number of
+places is limited! So, let's begin from the official way.
+By the way: Tolya definitely is not going to attend the ADASS.
+
+As to my travel, I will ask money for airfair through the Russian
+Foundation for Fundamental Researchs. It normally provides a travel
+grant if a participant makes *oral* presentation. Sometimes
+orginizers can not provide the oral status for the presentation 
+due to an overcrowded programme -- in such a case we just ask
+orginizers to mention the oral status in an official invitation.
+The invitation is then submitted to the Foundation, but nobody 
+prohibits organizers later to change the status and move the 
+presentation to the posters.
+
+Sincerely yours,
+Oleg
+#-------------------------------
+
+
+Financial Aid Form
+
+Applicant Information
+
+Name of Applicant  Oleg Malkov
+Position Title     Researcher
+Institution        Institute of Astronomy
+Postal Address     48 Pyatnitskaya St., Moscow 119017, Russia
+Email Address      malkov@inasan.ru
+Phone Number       (7-095) 953-1702
+Citizenship        Russian
+
+
+Vita and Bibliography (maximum of 2 printed pages)
+
+%%%%%%%%%%%%% cut here (2 pages in LaTeX) %%%%%%%%%%%%%%%%%%%%%
+\documentstyle [11pt]{article}
+\textwidth 6.5in
+\topmargin -0.7cm
+\textheight 10.0in
+\voffset=-0.75in
+\hoffset=-0.75in
+\baselineskip 0.2cm
+\begin {document}
+\begin {center}
+\Large
+\noindent{\bf CURRICULUM VIT\AE \\}
+\end {center}
+\normalsize
+
+\vspace{0.7em}
+
+{\Large \bf
+Oleg MALKOV}~~~~~~~~~~~~~~~~~~~~~~~Born:
+September 14, 1961~~~Moscow, Russia
+
+\medskip
+
+{\bf ADDRESS}
+
+Institute of Astronomy of the Russian Academy of Sciences (INASAN)
+
+48 Pyatnitskaya St., Moscow 119017, Russia
+
+Phone: (7-095) 953-1702
+
+Fax: (7-095) 230-2081
+
+E-mail: malkov@inasan.ru
+
+WWW: http://www.inasan.rssi.ru/\verb"~"malkov
+
+\bigskip
+
+\begin{tabular}{ll}
+\multicolumn{2}{l}{\bf EMPLOYMENT HISTORY}\\
+Nov 2002 --- Jan 2003 & Invited professor, Observatoire de Besancon, France\\
+Mar 2002 --- present& Research associate, Isaac Newton Institute 
+Moscow Branch\\
+Nov 2001 --- present& Senior researcher and Head of group, INASAN\\
+Dec 1992 --- Oct 2001& Researcher and Head of group, INASAN\\
+Feb 1991 --- Nov 1992& Junior researcher and Head of group, INASAN\\
+Mar 1989 --- Jan 1990& Researcher, Observatoire de Strasbourg, France\\
+Apr 1986 --- Feb 1991& Junior researcher, INASAN\\
+Mar 1984 --- Mar 1986& Probationer-researcher, INASAN \\
+\end{tabular}
+\vskip 0.3cm
+
+\begin{tabular}{lll}
+\multicolumn{3}{l}{\bf SHORT TERM VISITS}\\
+\noindent{1}997, 1998, 1999&AIP, Potsdam, Germany    & MS and pre-MS binaries investigation\\
+\noindent{1}994, 1996, 1997&OAT, Trieste, Italy      & Telescope (TNG) software development\\
+\noindent{1}991       &ESO, Garching, Germany   & MIDAS training\\
+\noindent{1}989       &ARI, Heidelberg, Germany & Construction of polarization catalogs\\
+\end{tabular}
+\vskip 0.3cm
+                                     
+%\begin{minipage} [t]{7.5cm}
+\begin{tabular}{llll}
+\multicolumn{3}{l}{\bf DEGREES AWARDED}\\
+Ph.D.& 1993& Pulkovo Observatory,           & Local luminosity function and\\
+     &     & St.-Petersbourg                & the star formation history \\
+M.Sc.& 1984& Moscow State University, Moscow& Stellar atmosphere models of cool stars\\
+B.Sc.& 1982& Moscow State University, Moscow& Interstellar extinction in solar vicinity\\
+\end{tabular}
+\vskip 0.3cm
+
+%\end{minipage}
+%\begin {minipage} [t]{8cm}
+
+\begin{tabular}{ll}
+\multicolumn{2}{l}{\bf PROFESSIONAL AFFILIATIONS}\\
+International Astronomical Union (Com. 5, 26)   & since 1994\\
+European Astronomical Society    & since 1994\\
+Euro-Asian Astronomical Society  & since 1997\\
+\end{tabular}
+%\end{minipage}
+\vskip 0.3cm
+
+\begin{tabular}{lll}
+\multicolumn{3}{l}{\bf STUDENTS SUPERVISED}\\
+E. Kilpio, D. Kovaleva (Moscow State University)    & 1991 - 96 & 
+supervision of B.Sc., M.Sc.\\
+A. Belikov, M. Belous (Moscow State University)   & 1991 - 94 & 
+supervision of B.Sc.      \\
+O. Astrakhantseva (U. of Kazan')       & 1993   & 
+summer student               \\
+\end{tabular}
+\vskip 0.3cm
+
+{\bf COMPUTING SKILLS:}
+Unix/Linux, Win/DOS, VMS;
+Fortran, C/C++, PL/1, Algol
+\vskip 0.3cm
+
+{\bf LANGUAGE SKILLS:}
+good oral and written English,
+oral French,
+native Russian speaker
+\vskip 0.3cm
+
+{\bf RESEARCH INTERESTS}
+
+Construction and examination of astronomical data bases;
+construction of catalogues; star designations problems;
+astronomical data analysis; large datasets.
+
+Initial mass function;
+local luminosity function; history of star formation; structure of
+mass-luminosity relation; binary stars; brown dwarfs; local missing
+mass.
+
+Galaxy models, interstellar extinction, polarization.
+
+\bigskip
+
+\begin{center}
+\noindent{\bf REFERENCES AVAILABLE UPON REQUEST}
+\end{center}
+ 
+\newpage
+
+\noindent{\bf RECENT PUBLICATIONS }
+
+\bigskip
+
+Dluzhnevskaya O.B., Malkov O.Yu., Kilpio A.A., Kilpio E.Yu.,
+Kovaleva D.A., Sat L.A.
+``The Russian Virtual Observatory'' 2003,
+in {\em Proc. 
+Library and Information Services in Astronomy (LISA) IV conference}
+eds. Brenda G. Corbin, Liz Bryson, Marek Wolf, Prague, Jul 2002, 
+{\em U. S. Naval Observatory publications, Washington, DC}, 65-72.
+
+\bigskip
+
+Kilpio A., Dluzhnevskaya O., Malkov O., Kilpio E., Kovaleva D.,
+Sat L., Kaigorodov P.
+``Russian and fSU resources to be integrated in the IVO'' 2003,
+in {\em Proc. ADASS XII Conference},
+eds. Harry Payne, Robert Jedrzejewski, Richard Hook,
+Baltimore, Oct 2002,
+ASP Conf. Ser., Vol. {\bf 295}, 73-76.
+
+\bigskip
+
+Malkov O. Yu.
+``Eclipsing binaries and the mass-luminosity relation''
+2003, {\em Astron. Astrophys.}, {\bf 402}, 1055-1060.
+
+\bigskip
+
+Malkov O., Kovaleva D.
+``Binary stars with GAIA and the mass-luminosity relation'' 2003,
+in {\em Proc. GAIA Spectroscopy, Science and Technology conference},
+ed. U. Munari, Gressoney Saint Jean, Sep 2002,
+ASP Conf. Ser., Vol. {\bf 298}, 357-362.
+
+\bigskip
+
+Dluzhnevskaya O., Malkov O., Kovaleva D., Kilpio E., Kilpio A.,
+Sat L.
+``The Russian Virtual Observatory. Information system of the Centre
+for Astronomical Data'' 2002,
+in {\em Proc. Fourth All-Russian Scientific Conference RCDL'2002, Digital
+Libraries: Advanced Methods and Technologies, Digital Collections},
+eds. V. Wolfengagen, A. Zabrodin, 
+M. Kogalovsky, O. Plechova, A. Tomilin, V. Shnitman,
+Dubna, Oct 2002, Dubna-JINR 2002, {\bf 1}, 202-212.
+
+\bigskip
+
+Kharchenko N., Kilpio E., Malkov O., Schilbach E.
+``Mira kinematics in the post-Hipparcos era''
+2002, {\em Astron. Astrophys.}, {\bf 384}, 925-936.
+
+\bigskip
+
+Malkov O., Kilpio E.
+``A Synthetic Map of the Galactic Interstellar Extinction'' 2002,
+in {\em Proc. European meeting, Census of the Galaxy: Challenges
+for Photometry and Spectrometry with GAIA},
+eds. V. Vansevi\u{c}ius, A. Ku\u{c}inskas, J. S\=ud\u{z}ius,
+Vilnius, Jul 2001,
+{\em Astrophys. Space Science}, {\bf 280}, 115-118.
+
+\bigskip
+
+Malkov O.
+``Unresolved binaries and the initial mass function'' 2002,
+in {\em Proc. European meeting, Census of the Galaxy: Challenges
+for Photometry and Spectrometry with GAIA},
+eds. V. Vansevi\u{c}ius, A. Ku\u{c}inskas, J. S\=ud\u{z}ius,
+Vilnius, Jul 2001,
+{\em Astrophys. Space Science}, {\bf 280}, 129-132.
+
+\bigskip
+
+Malkov O., Zinnecker H.
+``The effect of unresolved binaries on the low-mass IMF''
+2001, in {\em Proc. IAU Symp. 200, The Formation of
+Binary Stars}, eds. H. Zinnecker, R. D. Mathieu, Potsdam, 
+Apr 2000, ASP, San Francisco, USA, 501-504.
+
+\bigskip
+
+Malkov O., Tutukov A., Kovaleva D.
+``The role of astronomical catalogues in modern theory and
+observation'' 2001,
+in {\em Proc. Special Session of XXIV GA IAU,
+Astronomy for Developing Countries},
+ed. Alan H. Batten, Victoria University of Manchester,
+United Kingdom, Aug 2000, ASP, San Francisco, USA, 291-302.
+
+\bigskip
+
+Scholz R.-D., Irwin M., Ibata R., Jahrei{\ss} H., Malkov O.Yu.
+``New sourthern sky high-proper motion survey from APM 
+measurements of UKST plates'' 2001,
+in {\em Proc. Nearby Stars Workshop}, eds.
+Dana E. Backman, Shirley J. Burg, Todd J. Henry,
+Ames Research Center, Moffett Field, Jun 1999,
+NASA, Ames Research Center, Moffett Field, California 94035-1000,
+367-368.
+
+\bigskip
+
+Malkov O.
+``Large astronomical catalogues'' 2001,
+in {\em Proc. Workshop on Automated Data Analysis in Astronomy},
+eds. Ranjan Gupta, Harinder P. Singh, Coryn A. L. Bailer-Jones,
+IUCAA, Pune, Oct 2000,
+Narosa Publishing House, New Delhi, India, 1-13.
+
+\bigskip
+
+Malkov O., Zinnecker H.
+``Binary stars and the fundamental initial mass function''
+2001, {\em Mon. Not. R. Astron. Soc.}, {\bf 321}, 149-154.
+
+\end{document}
+
+%%%%%%%%%%%%% cut here %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Requested Financial Aid
+
+Hotel (up to 4 nights) 
+Registration Fee 
+

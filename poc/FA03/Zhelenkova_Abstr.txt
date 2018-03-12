@@ -1,0 +1,98 @@
+Presentation Information
+
+ * Requested Presentation Type: Oral/Poster
+ * Presentation Title :
+   An experience of data fusion from diverse information resources on
+   the example of optical identification radio sources.
+ * Presentation Abstract
+										x
+The "Big Trio" [1,2] program directed to an investigation of cosmological
+objects, - distant radio galaxies, is had been carrying out for a few years
+in the Special Astrophysical Observatory of RAS. The list of research objects
+was consisted from radio sources of the deep survey of the sky strip observed
+with RATAN-600 [3,4]. 104 radio galaxies were selected from 1145 objects getting in
+the survey. Candidate selection was done by a few parameters including a steep
+spectrum and a two component radio structure [5]. The most part of
+the RC catalog radio sources has flux density between 5 and 50 mJy.
+10% of sources have steep spectrum (alpha>0.9) and 70% of ones have double
+radio structure. The VLA data (NRAO, USA) were used in the selection procedure.
+The basic part of the candidates identifies with galaxies up to 24-25 magnitude
+in R band with observations getting on the 6-m telescope of SAO RAS. Data of
+the MIT-GB and the FIRST surveys (VLA) are used for turning out of radio
+sources structure and making more precise of radio coordinates. Getting with
+the 6-m telescope fields were tied to secondary astrometry standards defined
+by the DSS-II survey and USNO-A2 catalog for optical identification of radio
+sources [5]. Overlaying of optical and radio images was done for 75 sources. The
+results of optical identification of radio sources are published in the web
+archive (http://sed.sao.ru/rc_archive.html) [6].
+
+The data and resources using in the work may divide on the next groups:
+a) Initial information is observation data. Observations were carried out by
+RATAN-600, the 6-m and VLA telescopes and next data volume were obtained:
+RATAN-600 - 100MB; the 6-m telescope - 4000MB; VLA - 500MB. The data are from
+observation data archives SAO RAS, VLA (NRAO, USA);
+b) Information from astronomical web-resources using with data processing
+(digital surveys and catalogs: DSS-I, DSS-II, FIRST, NVSS, USNO-A2.0);
+c) Data processing results. About 2600 files (40 files per object) were
+prepared for the web archive. 2-5 arcmin sky area was proceeded per source.
+An information volume per source increases from 100 bytes (the RC catalog row)
+up to 10MB for the score of engaging the necessary data at processing;
+d) Astronomical software: MIDAS (ESO, Germany), GAIA (Starlink, UK),
+WCSTools (SAO, USA);
+e) Web resources: http://www.eso.org, http://cdsweb.u-strasbg.fr,
+http://cfa-www.harvard.edu, http://www.nrao.edu, http://ad.usno.navy.mil,
+http://star-www.rl.ac.uk
+
+If to sum up of the work that, except for results of investigation of object
+sample, there is an electronic collection assembled from different information
+resources. It can be utilized and in further for a collaborative team occupied
+with investigation of the sample and research of a radio source nature. Only
+organization of convenient access to this data collection to operate with it
+and simultaneously to publish new results in the Internet is nontrivial problem.
+There are sites, where actualization of the heterogeneous data is at a high
+level, for example, site of the company Oracle http://www.oracle.com.
+It would be desirable with usage of DBMS to organize warehouse from our data
+collection, in which the web publication and access to the information are
+implemented adequate to our problem.  The warehouse embodying is divided on
+some problems by available groups of the data, but basic task is an addition
+of the data of new formats. Web access to the heterogeneous archive data
+(radio and optical) for source identification, and also to information gaining
+at processing of observations, again it is a problem of integrating of archives
+and addition of new formats.  It is necessary to have semantic representation
+(meta data definition) and to create on its basis the mechanism of a different
+data format integrating. Proceeding from comprehension of necessity of similar
+operation the interface to the observation data archive as a federation of
+archives is developed in our observatory. There is the prototype interface for
+access by date to heterogeneous local observation archives
+(http://www.sao.ru/oasis/fetch).  For embodying other request types
+(by coordinates, tools etc.) the table with the description of connections
+between the keyword featuring an observation parameter, the relevant column in
+the table with parameters of observations and UCD [7] is switched on in the
+structure of the tables. In further it is supposed to implement access to the
+observation data according to specifications and formats IVOA (SIM, VOTable)
+[8,9].
+The work is supported by RFBR, grant N 03-07-90034.
+
+References
+
+1. Goss W.M., Parijskij Y.N., Kopylov A.I., Zhelenkova O.P., Naugolnaya M.N.,
+Soboleva N.S., Temirova A.V., Vitkovskij Val.V.: 1994, Turkish J. of  Physics,
+v.18, p.894
+2. Goss W.M., Parijskij Y.N., Soboleva N.S., Temirova A.V., Vitkovskij Val.V.,
+Zhelenkova O.P., Naugolnaya M.N.,: 1992, Astron. Zh., v.69, p.673
+3. Parijskij Y.N., Bursov N.N., Lipovka N.M., Soboleva N.S., Temirova A.V..:
+1991, Astron. Astrophys. Suppl. Ser., v.87, p.1
+4. Parijskij Y.N., Bursov N.N., Lipovka N.M., Soboleva N.S., Temirova A.V.,
+Chepurnov A.V..: 1992, Astron. Astrophys. Suppl. Ser., v.96, p.583
+5. Parijskij Y.N., Goss W.M., Kopylov A.I., Soboleva N.S., Temirova A.V.,
+Verkhodanov O.V., Zhelenkova O.P., Naugolnaya M.N.: 1996, Bull. Spec.
+Astrophys. Obs., v.40, pp. 5-105
+6. Verkhodanov O.V., Kopylov A.I., Zhelenkova O.P., Verkhodanova N.V.,
+Chernenkov V.N., Parijskij Y.N., Soboleva N.S., Temirova A.V., 2000,
+Astronomical and Astrophysical Transactions, v.19, pp 663-667
+7. Unified Content Descriptors (UCDs), http://vizier.u-strasbg.fr/doc/UCD.htx
+8. Simple Image Access Prototype Specification,
+http://www.us-vo.org/news/simspec.html
+9. VOTable: A Proposed XML Format for Astronomical Tables, R. Williams et al.,
+http://cdsweb.u-strasbg.fr/doc/VOTable
+

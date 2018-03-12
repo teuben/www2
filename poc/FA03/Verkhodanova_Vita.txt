@@ -1,0 +1,214 @@
+Subject: Financial Aid
+From: "Natalie V. Verkhodanova" <nat@sed.sao.ru>
+Date: Fri, 18 Jul 2003 19:30:21 +0400
+To: adass2003@newb6.u-strasbg.fr
+
+Dear colleagues,
+
+I am applying to the financial aid according to your form.
+
+Thank you for a help,
+sincerely yours,
+Natalia Verkhodanova
+**********************************************************************
+
+In order to apply for financial aid, the following must be received
+by July 18,  2003:
+
+Applicant Information
+---------------------
+ Name of Applicant        Natalia V. Verkhodanova
+ Position Title           Researcher
+ Institution              Special Astrophysical Observatory
+ Postal Address           Nizhnij Arkhyz, Karachaj-Cherkesia,
+			  369167 Russia
+ Email Address            nat@sao.ru
+ Phone Number             (+7)-87878-46329
+ Citizenship              Russia
+ Academic Level (if applicant is a student): Undergraduate, Graduate
+
+Requested Financial Aid
+----------------------------------
+	Hotel (4 nights)         +
+	Registration Fee         +
+	Traffic  (if possible)   +
+
+Vita and Bibliography:
+----------------------
+Kazan University                        1987  Master Degree
+Special Astrophysical Observatory (SAO) 1988  Engineer of laboratory
+					      Antenna Investigation
+SAO                                     1993  Engineer of laboratory
+					      radio astronomical observations
+SAO                                     1996  Researcher
+
+Main interests:
+Virtual Observatory, Web-design, data processing, data base, radio astronomy
+
+Some publications:
+------------------
+1.   Verkhodanov O.V., Verkhodanova N.V. 1997.
+     New data by the Zenith survey in the region of 47 degs by declination:
+     RATAN-600 observations in 1995, NVSS and APM identifications.
+     In "Problems of modern radio astronomy" (in Russian).
+     Proc. of the 27th Radio astronomical conf. St.-Petersburg.
+     Institute of Applied Astronomy of RAS. V.1. P.195-196.
+
+2.   Verkhodanov O.V., Andernach H., Verkhodanova N.V. 1997.
+     Interactive restoration of radio spectra of UTR sources.
+     In "Problems of modern radio astronomy" (in Russian).
+     Proc. of the 27th Radio astronomical conf. St.-Petersburg.
+     Institute of Applied Astronomy of RAS. V.1. P.330-331.
+
+3.   Verkhodanov O., Andernach H., Verkhodanova N.V., Loiseau N.
+     1998. Radio Spectra and NVSS Maps of Decametric Sources.
+     Proc. Observational Cosmology with the New Radio Surveys.
+     eds. M.Bremer, N.Jackson & I.P'erez-Fournon,
+     Kluwer Acad. Publ., ASSL V.226, 255--256. astro-ph/9703142.
+
+4.   N.V.Verkhodanova, H. Andernach, N. Loiseau, O.V. Verkhodanov.
+     The properties of decametric sources: study with the CATS database.
+     In "Prospects of Astronomy and Astrophysics For the New Millennium"
+     (Book of Abstracts). Joint European and National Astronomical Meeting,
+     JENAM'98. 7th European and 65th Annual Czech Astronomical Conference,
+     held in Prague, Czech Republic, 9-12 Sept., 1998, P.303.
+
+5.   Verkhodanov O.V., Verkhodanova N.V. 1999.
+     Investigations of Sources Near 47 degs Declination Using
+     the RATAN-600 Radio Telescope.  V.43. No 7. P.417-427.
+     (In Russian: Astronomicheskij Zhurnal, V.76, No 7, P.483-494).
+
+6.   Verkhodanov O.V., Andernach H., Verkhodanova N.V.
+     FIRST maps of some decametric sources.
+     In Book of Abstracts. Joint European and National Astronomical Meeting,
+     JENAM'2000. 9th European and 5th Euro-Asian Astronomical Conference,
+     held in Moscow, Russia, May 29 - June 3, 2000, P.156.
+
+7.   Verkhodanov O.V., Kopylov A.I., Verkhodanova N.V., Zhelenkova O.P.,
+     Chernenkov V.N., Parijskij Yu.N., Soboleva N.S., Temirova A.V.
+     Organization of the data base of spectral energy distributions
+     of radio galaxies.
+     In Book of Abstracts. Joint European and National Astronomical Meeting,
+     JENAM'2000. 9th European and 5th Euro-Asian Astronomical Conference,
+     held in Moscow, Russia, May 29 - June 3, 2000, P.181.
+
+8.   Verkhodanov O.V., Andernach H., Verkhodanova N.V. 2000.
+     Radio identification of decametric sources. I. Catalogue.
+     Bulletin of SAO, No 49, P.53-100. astro-ph/0008431.
+
+9.   O.V.Verkhodanov, A.I.Kopylov, O.P.Zhelenkova, N.V.Verkhodanova,
+     V.N. Chernenkov. 2000.
+     The informational system "Evolution of radio galaxies".
+     In Proc. of the International Workshop on
+     Computer Science and Information Technologies. CSIT'2000.
+     Ufa, Russia, September 18-23, 2000. V.2, pp. 235-239
+
+10.  O.V. Verkhodanov, H. Andernach, N.V.Verkhodanova. 2000.
+     USS radio sources from the UTR-2 survey.
+     Atsron. Astrophys. Trans. V.19, No 3-4, PP. 542-549.
+
+11.  O.V.Verkhodanov, A.I.Kopylov, O.P.Zhelenkova, N.V.Verkhodanova,
+     V.N.Chernenkov, Yu.N.Parijskij, N.S.Soboleva, A.V.Temirova. 2000.
+     The software system ``Evolution of radio galaxies''.
+     Atsron. Astrophys. Trans. V.19, No 3-4, PP. 662-667.
+     astro-ph/9912359.
+
+12.  Verkhodanov O.V., Kopylov A.I., Zhelenkova O.P., Verkhodanova N.V.,
+     Chernenkov V.N., Parijskij Yu.N., Soboleva N.S., Temirova A.V. 2000.
+     Creation of the database of spectral energy distributions of radio
+     galaxies. Baltic Astronomy, v.9, p.668-669.
+     In "Data acquisition processing and storage modern facilities".
+     Proc. Sect. 11 Joint Europ. and National Astron. Meeting. Moscow, 2000.
+
+13.  O.V. Verkhodanov, N.V.Verkhodanova, H. Andernach. 2001.
+     Analysis of different samples of decametric sources by 1.4 GHz VLA maps.
+     Russian astronomical conference. 6-12 August, 2001.
+     St.Petersburg, Astron. Institute St.Petersb.State Univeristy.
+     Reports thesis, pp.30-31. (In Russian)
+
+14.  Verkhodanov O.V., Kopylov A.I., Zhelenkova O.P., Verkhodanova N.V.,
+     Chernenkov V.N., Parijskij Yu.N., Soboleva N.S., Temirova A.V. 2001.
+     The Russian Internet-resource for study of radio galaxies.
+     Russian astronomical conference. 6-12 August, 2001.
+     St.Petersburg, Astron. Institute St.Petersb.State Univeristy.
+     Reports thesis, p.31. (In Russian)
+
+15.  O.V.Verkhodanov, S.A.Trushkin, V.K.Kononov, A.I.Kopylov,
+     N.V.Verkhodanova, A.G.Gubanov, V.N.Chernenkov, O.P.Zhelenkova. 2001.
+     Questions of virtual observatory creation.
+     Russian astronomical conference. 6-12 August, 2001.
+     St.Petersburg, Astron. Institute St.Petersb.State University.
+     Reports thesis, p.32. (In Russian)
+
+16.  O.V.Verkhodanov, V.K.Kononov, S.A.Trushkin, A.I.Kopylov,
+     N.V.Verkhodanova, O.P.Zhelenkova, V.N.Chernenkov. 2001.
+     Organizing of a virtual mini observatory.
+     Astronomische Gesellschaft. Abstract Series No. 18, 2001.
+     In Book of Abstracts, ed. Reinhard E.Schielicke.
+     Joint European and National Astronomical Meeting,
+     JENAM'2001 and Astronomische Gesellschaft.
+     held in Munich, Sept. 10-15, 2001, P.254.
+
+17.  N.V.Verkhodanova, O.V.Verkhodanov, A.I.Kopylov,
+     O.P.Zhelenkova, V.N.Chernenkov, Yu.N.Parijskij, N.S.Soboleva,
+     A.V.Temirova. 2001.
+     System to study evolution of radio galaxies.
+     Astronomische Gesellschaft. Abstract Series No. 18, 2001.
+     In Book of Abstracts, ed. Reinhard E.Schielicke.
+     Joint European and National Astronomical Meeting,
+     JENAM'2001 and Astronomische Gesellschaft.
+     held in Munich, Sept. 10-15, 2001, P.254.
+
+18.  O.V.Verkhodanov, A.I.Kopylov, O.P.Zhelenkova, N.V.Verkhodanova,
+     V.N. Chernenkov. 2001.
+     Advance of the database "Evolution of radio galaxies".
+     In Proc. of the International Workshop on
+     Computer Science and Information Technologies. CSIT'2001.
+     Ufa, Russia, September 21-26, 2001. V.2, pp. 1-6.
+
+19.  O.Verkhodanov, H.Andernach, and N.V.Verkhodanova. 2001
+     "Steep-spectrum UTR sources in FIRST survey"  by
+     Astronomical and Astrophyscal Transactions, Vol.20, pp.321-322.
+
+20.  Verkhodanova N.V., Andernach H., Verkhodanov O.V. 2002.
+     The Problem of Identifying Decametric Sources.
+     In ``The Universe at Low Radio Frequencies'', Proceedings of
+     IAU Symposium 199, held 30 Nov - 4 Dec 1999, Pune, India.
+     Eds. A. Pramesh Rao, G. Swarup, and Gopal-Krishna, 215-216,
+     astro-ph/9912331
+
+21.  Andernach H., Verkhodanov O.V., Verkhodanova N.V. 2002.
+     Radio-optical Identification of Very-Steep Spectrum Radio Sources
+     from the UTR-2 Catalogue.
+     In ``The Universe at Low Radio Frequencies'', Proceedings of
+     IAU Symposium 199, held 30 Nov - 4 Dec 1999, Pune, India.
+     Eds. A. Pramesh Rao, G. Swarup, and Gopal-Krishna, 217-218
+
+22.  Verkhodanov O.V., Kopylov A.I., Zhelenkova O.P., Verkhodanova N.V.,
+     Chernenkov V.N., Parijskij Yu.N., Soboleva N.S., Temirova A.V. 2002.
+     The SEDs Database to Study Evolution of Radio Galaxies.
+     In ``The Universe at Low Radio Frequencies'', Proceedings of
+     IAU Symposium 199, held 30 Nov - 4 Dec 1999, Pune, India.
+     Eds. A. Pramesh Rao, G. Swarup, and Gopal-Krishna, 247-248.
+
+23.  Verkhodanov O.V., Verkhodanova N.V., Andernach H. 2003.
+     Radio Identification and Continuum Spectra of Decameter-Wavelength
+     Sources. Astronomy Reports. V.47, No 2, pp.110-118.
+     (Astronomicheskii Zhurnal, V.80, No 2, pp.130-139).
+
+24.  Verkhodanov O.V., Kopylov A.I., Verkhodanova N.V., Zhelenkova O.P.,
+     Chernenkov V.N., Parijskij Yu.N., Soboleva N.S., Temirova A.V. 2003.
+     System to estimate ages and redshifts for radio galaxies.
+     In ``AGN Surveys'', Proceedings of the IAU Colloquium No. 184:
+     held 18 June - 22 June 2001, Byurakan, Armenia.
+     Eds.: R.F.Green, E.Ye.Khachikian, and D.B.Sanders,
+     ASP Conf. Series, Vol. 284, p.312-313, astro-ph/0112142
+
+25.  Verkhodanov O.V., Verkhodanova N.V., Andernach H. 2003.
+     Decametric AGNs: FIRST and NVSS maps and radio spectra.
+     In ``AGN Surveys'', Proceedings of the IAU Colloquium No. 184:
+     held 18 June - 22 June 2001, Byurakan, Armenia.
+     Eds.: R.F.Green, E.Ye.Khachikian, and D.B.Sanders,
+     ASP Conf. Series, Vol. 284, p.306-307, astro-ph/0112143
+
+

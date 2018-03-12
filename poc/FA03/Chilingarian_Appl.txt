@@ -1,0 +1,229 @@
+Subject: financial aid request
+From: "Igor V. Chilingarian" <chil@sai.msu.su>
+Date: Fri, 18 Jul 2003 20:35:24 +0400 (MSD)
+To: adass2003@newb6.u-strasbg.fr
+
+Good evening!
+
+I'm 1st year PhD student from Moscow. I've been working in the DBMS
+solutions for astronomy for 4 years, for example, I'm responsible for DBMS
+development in HyperLEDA. I'd like to present one quite interesting work
+at ADASS-XIII conference devoted to PostgreSQL RDBMS usage in astronomy
+and astrophysics. Unfortunately, I can not find money in Russia to pay the
+registration fee and hotel expenses. So, I'm applying for the financial
+aid.
+
+I'm sending you all the information listed at
+http://www.adass.org:8080/meetings/adass2003/instructions/financial_aid
+Please note, vita and abstract are included in the attachment.
+
+With best regards,
+						Igor
+
+=========================================================
+Appliciant Information
+1. Igor V. Chilingarian
+2. 1st year PhD student
+3. a)Moscow State University, Physics Department, Sternberg Astronomical
+     Institute;
+   b)Special Astrophysical Observatory of Russian Academy of Sciences
+4. Leninsky prospect, 73/8-76, Moscow, Russia, 119296
+5. chil@sai.msu.su
+6. +7-095-1346276(home) +7-095-9391660(work) +7-916-1882361(mobile)
+7. RU
+8. Postgraduate.
+
+Vita and Bibliography
+<included in the attachment>
+
+Presentation Information
+1. Requested Presentation Type: Oral
+2. Presentation Title: "PostgreSQL: the suitable DBMS solution for astronomy
+   and astrophysics"
+3. Presentation Abstract: <included in the attachment>
+
+Requested Financial Aid
+1) Hotel (4 nights)
+2) Registration Fee
+
+Letter of recommendation
+This letter will be sent by Philippe Prugniel (CRAL-Observatoire de Lyon),
+e-mail: prugniel@obs.univ-lyon1.fr
+
+
+
+I was born in 1980 in Moscow. I defended master thesis in astronomy in
+December 2002 under the supervision of Serguei Dodonov (Special
+Astrophysical Observatory of Russian Academy of Sciences, SAO RAS). I have 
+started PhD in April.
+
+I finished Moscow phys.-math. secondary school #1534 with gold medal in
+1997. During that studying 3 times (and 95,96 and 97) I got a 1-st degree
+award on Russian school olimpiad on astronomy and space physics. In 1996 I
+got 1-st degree award on the 1st International Astronomical Olimpiad.
+
+I entered the Astronomical Division of the Physics Department of Moscow
+State University in 1997. I finished MSU with gold medal and got
+"Astronomer" degree in Jannuary 2003.
+
+My scientific interests are: distant galaxies, distant quasars,
+observational cosmology, evolution of galaxies, evolution of active galactic
+nuclei, photometrical classification of objects (multi-color, SED-fitting),
+3D-spectroscopy, astronomical databases, virtual instruments for
+extragalactic astronomy.
+
+During the graduate studying I have been working in the SAO RAS for the
+total time of about 1.5 years under the supervision of the head of LSPEO,
+Serguei Dodonov. I had obtained good skills in the observational techniques,
+data processing algorithms (including 3D-spectroscopy) . Also I'm working
+with IT professionals from Sternberg Astronomical Institute, who are
+included in the official PostgreSQL developer list (Oleg Bartunov and Teodor
+Sigaev). I have been participating in HyperLeda international collaboration
+(and now in MIGALE, PI: Philippe Prugniel) for 2 years. It allowed me to get
+advanced practice in the applied, database and system programming for
+different software/hardware platforms.
+
+
+My observational experience:
+----------------------------
+1. Prime focus direct imaging at 6-meter telescope (BTA) of the Special
+Astrophysical Observatory (SAO RAS), Russia.
+
+2. Prime focus 3D-spectroscopy using MPFS(Multi Pupil Fiber Spectrograph),
+MOFS(Multi Object Fiber Spectrograph) and IFP(Fabri-Perot Interferometer) at BTA.
+
+3. Prime focus long-slit observations at the BTA.
+
+4. Long-slit spectroscopy and direct imaging at 1m Zeiss telescope (SAO RAS).
+
+
+My IT experience:
+-----------------
+1)Hardware: PC (ix86), Sun (Sparc/UltraSPARC), DEC Alpha, 10 years experience
+
+2)OS: Linux/*BSD/Solaris/Tru64 Unix/SCO Unix/Windows, 10 yrs
+
+3)DBMS: BerkeleyDB, MySQL, PostgreSQL (including backend server
+programming), 4 yrs
+
+4)Programming: C/C++/Perl/RSI IDL/Maple/Fortran/Pascal, 8 yrs
+
+5)Algorithms:  standard numerical techniques and statictics (chi2
+minimization, maximum-likelihood method, fast fourier transforms), image
+reconstruction, artifical neural networks, 3 yrs
+
+6)Astronomical software: MIDAS
+
+7)Internet: TCP/IP, secure protocols, WEB developement, CGI programming, 6 yrs
+
+
+At present I'm envolved in several astrophysical and IT-related projects:
+-------------------------------------------------------------------------
+1) Search of primeval galaxies and very distant quasars on BTA -
+observations, data processing, analysis and interpreting, development and
+realization of high-performance algorithms for photometrical classification
+and redshift determination of astronomical objects. Results: master thesis +
+1 conference paper + 2 papers in preparation.
+
+2) The HyperLEDA database as part of MIGALE project (evolution of galaxies
+during last 9 Gigayears) and AVO (Astrophysical Virtual Observatory)
+projects, international collaboration, http://leda.univ-lyon1.fr/.
+Responsible for DBMS development using PostgreSQL. New version of DBMS for
+HyperLeda using server back-end programming is being developed now. Results:
+1 conference paper.
+
+3) MASTER project (Mobile Astronomical System of the TElescope-Robots)
+Synchronous optical observations of Gamma-ray bursts. Interpreting of the
+results, data processing, pipeline software development. Results: 7 GCN
+circulars + 2 papers in preparation.
+
+4) AstroNET (Russian Astronomical Network) Sky Map online project
+http://www.astronet.ru/db/map/ - developer, http://www.astronet.ru/db/map+/
+- fast access to the data for more than 530 millions astronomical objects in
+the database - principal developer. This work was supported by the RFBR
+grants #02-07-90222 and #02-07-06096.
+
+5) pgSphere, open source software project,
+http://gborg.postgresql.org/project/pgsphere/. Methods for working with
+spherical coordinates inside PostgreSQL database engine, including spatial
+indices construction. Testing and debugging, creation of scientific
+applications based on this product. This project is supported by the RFBR
+grants #02-07-90222 and #03-07-06116.
+
+6) pgAstro, open source software project, PostgreSQL contribution module for
+astronomy-related tasks. The developement has just begun. It is supported by
+the same grants as pgSphere.
+
+The following works were completed during the graduate studying:
+----------------------------------------------------------------
+2001 Apr:
+Classification of astronomical objects using photometric data.
+Supervisor.: Dr. Dodonov (SAO RAS)
+
+2001 May:
+The spiral galaxy NGC23: Photometry and Kinematics.
+Supervisor.: Dr. Khoruzhii (INASAN)
+This work was awarded with the highest award on the first student scientific
+work competition "Astronet-2001".
+
+2002 Dec:
+Diploma (master) thesis: Object classification by SEDs.
+Supervisor.: Dr. Dodonov (SAO RAS)
+This work was awarded with the highest award on the student scientific work
+competition "Astronet-2003".
+
+Bibliography:
+-------------
+1. Object classification by SEDs. Igor V. Chilingarian, Serguei N. Dodonov
+(supervisor). International conference for graduate, postgraduate students
+and young scientists on fundamential sciences "Lomonosov-2003". Section:
+Physics, proceedings of the conference, issued by Physics Department of MSU,
+2003, pp.16-17
+
+2. HyperLeda: Virtual instruments for extragalactic astronomy. Philippe
+Prugniel, Georges Paturel, Vladimir Georgiev, Igor Chilingarian and Chantal
+Petit. IVOA interoperability meeting, July 2002.
+
+3-9. GRB Coordinate Network circulars: 2002, 2035, 2091, 2103, 2157, 2158,
+2262. Lipunov, V.; Krylov, A.; Kornilov, V.; Borisov, G.; Belinski, A.;
+Chilingarian, I.; Kuvshinov, D.; Kuznetsov, M. V.; Potanin, S.; Vitrischak,
+V.; Antipov, G.
+
+
+
+PostgreSQL: the suitable DBMS solution for astronomy and astrophysics.
+----------------------------------------------------------------------
+Chilingarian, I.; Bartunov, O.; Richter, J.; Sigaev, T. (author list is preliminary)
+----------------------------------------------------------------------
+
+PostgreSQL, the open-source RDBMS, is probably one of the best database
+solutions for astronomy and astrophysics. Compared to several available
+commercial and non-commercial database engines, it appears to be the most
+versatile.
+
+At present PostgreSQL is being used in several well-known astronomical
+projects, for example in the HyperLEDA database, http://leda.univ-lyon1.fr/
+and in the MAPS, http://aps.umn.edu/ (Minnesota Automated Plate Scanner)
+Catalog of the POSS1.
+
+Extensibility is the most remarkable feature of this RDBMS - it allows to
+develop custom data types, queries and indexed access methods, optimized for
+specific tasks, without knowledge of database internals. This is very
+important for "non-standard" tasks, typical for scientific reaserch.
+
+We present two backend programmed modules.
+
+    * pgSphere, the ready-for-use contribution module for PostgreSQL, offers
+the capability for dealing with geometric objects in spherical coordinates.
+This module demonstrates all the possibilities of backend programming using
+the GiST interface for spatial indexing of spherical data. pgSphere can be
+very useful in astronomy and the geo-sciences. Performance tests are
+included.
+
+    * pgAstro, the contribution module based on the pgSphere engine,
+provides astronomy-specific functions and methods, for example positional 
+astronomy and physical models.
+
+We show that PostgreSQL is the most advanced database solution for
+astronomical applications and would be very useful for different Virtual
+Observatory projects.

@@ -1,0 +1,23 @@
+Subject: recommendation ADASS/ Igor Chilingarian
+From: Philippe PRUGNIEL <prugniel@obs.univ-lyon1.fr>
+Date: Fri, 18 Jul 2003 19:00:52 +0200
+To: adass2003@newb6.u-strasbg.fr
+
+Hello,
+
+Igor Chilingarian asked me to recommend him for participating to ADASS.
+Igor is an outstandingly bright your student. Though he is only starting
+the PhD he has a wide astronomical culture and he is also an experimented
+observer.
+
+He knows absolutely everything regarding computers: He can tell you what
+is the current best choice for a flat screen, teach you unix commands that 
+you never heard of, write you a data analysis program in idl or c, and much 
+more. He is familiar with votable...
+
+His work on the postgres back end merit to be presented, and he is
+fluent enough in English to make a nice talk.
+
+Salutations. Philippe Prugniel.
+
+

@@ -1,0 +1,40 @@
+Subject:
+ADASS 2003 - Financial support request by Dr Ninan Sajeeth Philip
+From:
+"Prof. F. Murtagh" <F.Murtagh@qub.ac.uk>
+Date:
+Tue, 1 Jul 2003 11:16:46 +0100 (BST)
+To:
+adass2003@newb6.u-strasbg.fr
+
+Financial support request by Dr Ninan Sajeeth Philip
+----------------------------------------------------
+
+This is a letter of recommendation in support of Dr Sajeeth Philip's
+request for financial support to attend ADASS 2003.  I met with Sajeeth
+at one of the SCMA - Statistical Challenges in Modern Astronomy -
+conferences in Penn State University, and was impressed by his
+wide-ranging activities which include use of neural networks and
+statistical methods for data analysis.  Sajeeth's work includes
+applications in astronomy.  Other areas in which he works include machine
+learning and cryptography.  Since our initial meeting we have kept in
+close contact, and have discussed various issues related to astronomical
+light curve classification, image analysis, and other related areas.
+
+It is clear that Sajeeth is a very deserving case for support, given that
+the distance is large, and the exchange rate of Indian currency is not
+strong.  It is clear also that our Indian colleagues - including Sajeeth
+- are playing an important role in virtual observatory and related
+advanced algorithm research and development work.  I hope it will be
+possible to help him in participating in ADASS 2003.
+
+Best regards,
+Fionn Murtagh
+
+---------------------------------------------------------------------
+Prof. F. Murtagh, School of Computer Science, Queen's University
+Belfast, Belfast BT7 1NN.  Tel +44 28 9027-4620, fax +44 28 9068-3890
+f.murtagh@qub.ac.uk,  http://www.cs.qub.ac.uk/~F.Murtagh
+---------------------------------------------------------------------
+
+

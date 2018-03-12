@@ -1,0 +1,33 @@
+* PRESENTATION INFORMATION
+
+  Requested Presentation Type:  Poster
+
+  Presentation Title:
+
+IMACON: A Free Software for Digitizing the Astronomical Images
+
+  Presentation Abstract:
+
+One of the most frequent procedures in astronomical computing is
+digitizing the graphic images for their subsequent processing by
+numerical methods.  Although such digitizing is a quite trivial
+procedure, which is incorporated to all the specialized software
+packages, it often becomes a serious problem for the astronomers
+and astrophysicists who use only the general-purpose graphics editors
+(such as Adobe PhotoShop or Corel PhotoPaint) and the high-level
+programming languages (e.g. Fortran).  To provide the "first aid"
+in such a situation, we developed a quite simple utility IMACON
+(working in MS DOS or Windows environment), which is freely available
+via Internet at http://www.user.cityline.ru/~dumin.  As follows
+from a considerable number of positive replies obtained during
+the last three years, this utility became a valuable tool both for
+professional and amateur astronomers in the developing countries,
+who do not have access to the expensive specialized software.  It is
+interesting to mention that IMACON was used most frequently (about 70%
+of replies) for digitizing the solar images and maps of the solar
+magnetic fields obtained by the cosmic heliospheric observatories
+SOHO and Yohkoh.  The second important area of application (about 20%
+of replies) was studying the meteors and artificial plasma clouds
+in the near-Earth space.
+
+

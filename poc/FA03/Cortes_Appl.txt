@@ -1,0 +1,50 @@
+Subject: financial aid
+From: Paulo Cortes <cortes@uiuc.edu>
+Date: Fri, 18 Jul 2003 16:52:22 -0700
+To: adass2003@newb6.u-strasbg.fr
+
+Dear Sir
+
+I am submitting the information that you request for financial aid.
+
+Best Regards
+
+Paulo Cortes
+
+   * Applicant Information
+         o Name of Applicant
+               + Paulo Cortes
+         o Postition Title
+               + Research Assistant, NCSA
+         o Institution
+               + National Center for Supercomputing Applications
+         o Postal Address
+               + 1002 W. Green Street
+                 Urbana, IL 61801 USA
+         o Email Address
+               + cortes@astro.uiuc.edu
+         o Phone Number
+               + (1 217)2443008
+         o Citizenship
+               + Chile
+         o Academic Level (if applicant is a student): Undergraduate,
+           Graduate
+               + Graduate
+
+   * Vita and Bibliography (maximum of 2 printed pages)
+            The vita is attached in this email
+   * Presentation Information
+         o Requested Presentation Type: Oral, Poster, Demo
+               + Poster
+         o Presentation Title
+               + A parallel implementation for the Clark clean Algorithm
+         o Presentation Abstract
+               + The Abstract is also included as an attachment
+   * Requested Financial Aid
+         o Hotel (up to 4 nights)
+               + yes
+         o Registration Fee
+               + yes
+   * Letter of recommendation (applicant is a student):
+         o The recommender is Ray Plante: rplante@ncsa.uiuc.edu
+

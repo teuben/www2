@@ -1,0 +1,193 @@
+Subject: request for financial aid for ADASS XIII/IVOA meetings
+From: Heinz Andernach <heinz@astro.ugto.mx>
+Date: Fri, 18 Jul 2003 19:00:29 -0500
+To: adass2003@newb6.u-strasbg.fr, heinz@abell.astro.ugto.mx
+
+Dear Sirs,
+
+I wish to apply for financial to participate in the ADASS XIII
+meeting at Strasbourg, France, October 12-15. I plan to attend 
+also the Tutorial on the VO on Sunday Oct. 12, as well as
+the IVOA interoperability meeting on Oct. 16-17. The reason for
+my request is that my research grant is limited to very little
+travel money which I need to prioritize for pure scientific meetings.
+Given my interest in, and moreover my possible contribution to, the
+Virtual Observatory (see abstract) I thought that my contribution
+might be of interest to the organizers of both ADASS XII and the
+IOVA interoperability meeting.
+
+I attach the request information:
+
+    * Applicant Information
+o Name of Applicant
+     Dr. Heinz Andernach
+o Postition Title
+     Prof. Titular
+o Institution
+     Depto. de Astronomia, Universidad de Guanajuato
+o Postal Address
+     Depto. de Astronomia, Universidad de Guanajuato
+     Apdo. Postal 144, Guanajuato, C.P. 36000, Gto., Mexico
+o Email Address
+     heinz@astro.ugto.mx
+o Phone Number
+   +52-473-732-9548 or 732-9607 (office)  +52-473-732-6845 (home)
+    FAX:  +52-473-732-0253 
+o Citizenship
+    German,  Mexican resident
+
+    * Vita and Bibliography (maximum of 2 printed pages)
+        ----> appended below
+
+    * Presentation Information
+         o Requested Presentation Type: Oral, 
+         o Presentation Title
+         o Presentation Abstract
+        ---->  appended  below; NOTE: the presentation could also
+         be split in two contributions, one for ADASS XIII proper,
+         the other for the IOVA interoperability meeting
+
+    * Requested Financial Aid:
+         x Hotel for 4 nights
+         x Registration Fee
+
+=============================================================================
+Vita and Bibliography (short 2-page version):
+(if preferred I can send a full CV in PS format, 18 pages)
+
+Heinz-Joachim ANDERNACH, 
+born 30 April 1954, at Essen, Germany (EC passport No. 3548076197)
+Family status: married, three children
+
+ACADEMIC BACKGROUND:
+1972-77 Study of Physics and Astronomy at Ruhr-Univ. Bochum, Germany
+12/1977 Physics Diploma (M.Sc. thesis on 'The Radio Continuum Halo of M 87')
+ 2/1981 PhD (Dr.rer.nat.)  from Ruhr-Universitaet Bochum, Germany; 
+        PhD thesis on 'High Frequency Study of Three Tailed Radio Galaxies'
+
+POSITIONS HELD:
+1978 -1981 Assistant in Research project on galaxy clusters at Ruhr-Univ. Bochum
+1981 -1986 Research assistant at Max-Planck-Inst. fur Radioastronomie Bonn, Germany
+6/86 -11/87 Project manager on space experiments at OHB-System GmbH, Bremen, FRG
+12/87 -5/88 Visiting astronomer, Inst. Argentino de Radioastronomia, Argentina
+ 6/88 -8/91 Senior Scientist at Astrophysics Dept., National Space Sciences 
+            Institute of Brazil (INPE), Sao Jose dos Campos, Brazil
+ 9/91 -8/93 Visiting astronomer, Instituto de Astrofisica de Canarias (IAC), Spain
+ 9/93 -1/95 CNRS fellowship (poste rouge) at Obs. Lyon and CDS, Strasbourg, France
+ 2/95-11/96 IUE Resident Astronomer, ESA/INSA, Villafranca, Spain
+11/96 - now: Profesor Titular A, Dept. of Astronomy, Univ. Guanajuato, Mexico
+
+PROFESSIONAL EXPERIENCE:
+- Observations with varios radio (VLA, Effelsberg, ATCA) and 2-m class 
+   optical telescopes
+- Publications: 39 refereed articles, 48 proceedings contribution, 39 other
+   contributions (abstracts, posters, etc.), 4 chapters in books, 
+   co-editor of 2 proceedings volumes (ASPCS 153 and 218); total of
+   158 coauthors/co-editors from 19 different countries
+- Citations & acknowledgements: 1035 citations: 260 citations to 
+   first-authored papers, 365 to co-authored papers, plus 410 auto-citations;
+   acknowledgements to me in 82 publications
+- Teaching: about 10 courses at undergrate level: basic physics, probability and 
+   statistics, radio astronomy
+- Administration: Council Member of INPE's Astrophysics Dept. 1989-90;
+   coordination of a group of 6 IUE Resident Astronomers, IUE Obs., Vilspa,
+   Spain 
+- Supervision of students:  supervision of 4 MSc theses and cosupervision
+   of 1 PhD thesis; orientation of 4 undergraduate students during summer
+   programs of several weeks
+- Databases and catalogues: use and active contribution to many astronomical 
+   on-line resources like NED, LEDA, SIMBAD, DIRA, EOLS, ADS, ESIS, ALADIN, 
+   CATS, etc.; integration and quality check of astronomical catalogues in CDS 
+   archive; collection and distribution of 1,500 astronomical object 
+   catalogues not publicly available before.
+- Organisation of Meetings: main organizer of 3 meetings of IAU-WG
+   Radioastronomical Databases, main organizer of 3 national and regional
+   meetings of mexican astronomers, LOC member of tree international 
+   meetings, SOC member of 5 national mexican astronomy meetings,
+- Meetings/seminars: oral presentations on 33 seminars, and on 22 of 38 
+   attended international meetings, 4 of them invited; 
+- Public outreach: aprox. 20 talks to the public (in Spanish); several
+   interviews on public TV and radio
+
+PUBLICATIONS (bibcodes only, time-reversed order):
+
+a) all 39 refereed publications
+
+2003AR.....47..110Verkhodanov O.V + N.V., Andernach H.: Radio ID & continuum spectra
+2002A&A...393....1Saar E., Einasto J., Toomet O., Starobinsky A.A., Andernach H., ...
+2002ApJ...575..764Fujita Y., Sarazin C.L., Kempner+ Chandra Observations of Abell 133
+2002AJ....123...51Einasto M., Einasto J., Tago E., Andernach H.+ 2001, III
+2002AJ....123...37Tago E., Saar E., Einasto J., Einasto M.,  paper II, astro-ph/0012537
+2001AJ....122.2222Einasto M., Einasto J., Tago E...: Opt/X-ray cl. I., astro-ph/0012536
+2001AJ....122.1172Slee O.B., Roy A.L., Murgia M., Andernach H., Ehle M.:
+2001A&A...370..468Torres D.F., Romero G.E., Combi J.A., Benaglia P.,
+2000BSAO...49...53Verkhodanov O.V., Andernach H., Verkhodanova N.V.:
+2000MNRAS.311..456Mason K.O., Carrera F.J., Hasinger G.R., Andernach H.,
+1999ApJ...519..441Einasto J., Einasto M., Tago E., Starobinsky A.A.,
+1999A&A...341...29Feretti L., Perley R., Giovannini G., Andernach H.:
+1998A&A...336...35Jaaniste J., Tago E., Einasto M., Einasto J.,
+1998AuJPh..51..971Slee O.B., Roy A.L., Andernach H.: 1998,
+1999MNRAS.308..233Mittaz J.P.D., Carrera F.J., Romero-Colmenero E.,
+1998GeoRL..25.2749Laffont C., Boice D.C., Moreels G., Clairemidi J.,
+1997A&AS..124..109Paturel G., Andernach H., Bottinelli L., Di Nella H.,
+1997MNRAS.289..801Einasto J., Einasto M., Frisch P., Gottlober S.,
+1997BaltA...6..263Gubanov A.G., Andernach H.: 1997, WWW Access to Radio
+1997BaltA...6..259Andernach H., Trushkin S.A., Gubanov A.G., Verkhodanov O.V.,
+1997A&A...323..659Schartel N. R., Andernach H., Greiner J.: 1997,
+1997Natur.385..139Einasto J., Einasto M., Gottlober S., Muller V., Saar V.,
+1997A&AS..123..119Einasto M., Tago E., Jaaniste J., Einasto J., Andernach H.:
+1996AuJPh..49..977Slee O.B., Roy A.L., Andernach H. 1996: A VLA Survey of
+1994PASP..106.1190Andernach H., Hanisch R.J., Murtagh F.: 1994,
+1994BICDS..45...35Andernach H.: How Complete is the Electronic Archive
+1994MNRAS.269..301Einasto M., Einasto J., Tago E., Dalton G.B., &
+1992A&AS...93..331Andernach H., Feretti L., Giovannini G., Klein U.,
+1990RMxAA..21..136Andernach H., Andreazza C.M.: 1990, The Distribution of
+1990A&AS...82..279Reuter H.-P., Andernach H.: 1990, A Radio Survey of
+1988A&AS...73..265Andernach H., Han Tie, Sievers A., Reuter H.-P.,
+1986A&A...169...78Andernach H., Schlickeiser R., Sholomitskii G.B.,
+1986A&AS...65..561Andernach H., Sievers A., Kus A.J., Schnaubelt J.:
+1985A&A...150..302Giovannini G., Feretti L., Andernach H.: 1985,
+1984A&A...133..252Andernach H., Feretti L., Giovannini G.: 1984,
+1983A&A...124..326Andernach H., Schallwich D., Sholomitskii G.B.,
+1981A&AS...43..155Andernach H., Schallwich D., Haslam C.G.T.,
+1980A&AS...41..339Andernach H., Waldthausen H., Wielebinski R.:
+1979A&A....74...93Andernach H., Baker J.R., v.Kap-herr A.,
+
+b) Conference proceedings (10 most recent of 48):
+
+2003lisa4......290Andernach H.: Professional Astronomy without a Librarian
+2003mecg..........Fujita Y., Sarazin C.L., Kempner J.C., Rudnick L., 
+2002ASPC..284..306Verkhodanova N.V., Verkhodanov O.V., Andernach H.: IAUCo 184, astro-ph/0112143
+2000A&AT...19..543Verkhodanov O.V., Andernach H., Verkhodanova N.V.: USS (GMIC'99)
+2000BaltA...9..604Verkhodanov O.V., Trushkin S.A., Chernenkov N.V., (Extragal. Facilities
+2000BaltA...9..608Trushkin S.A., Verkhodanov O.V., Chernenkov N.V., (Galact. Facilities
+2001A&AT...20..321Verkhodanov O.V., Andernach H., Verkhodanova N.V.: (SS UTR in FIRST)
+2002IAUS..199..217Andernach H., Verkhodanov O.V., Verkhodanova N.V.: (radio-opt ID of VSS)
+2002IAUS..199..215Verkhodanov O.V., Andernach H., Verkhodanova N.V. (Probl ID decam)
+2002IAUS..199..245Verkhodanov O.V., Trushkin S.A., Andernach H.: (LF CATS)
+
+c) other publications (10 most recent of total of 39):
+
+2003BAAS...35...79Kraan-Korteweg, and Department members: Annual Report of DAUG
+2002RAAMx..16...28Andernach H.: Astronomia Profesional sin Biblioteca(rio), poster P19
+2002AASNl.110...24Phillips J.P., Curiel S., Moreno M., Rodriguez L.F.,
+2001RACSP..xx...30Verkhodanov O.V., Verkhodanova N.V., Andernach H.:
+2001AGM....18.P253Trushkin S.A., Verkhodanov O.V., Chernenkov V.N., Andernach
+2001BAAS...33...78Andernach+ Annual Report Nov'99-Oct'00 of DA
+2000IAUGA..24.....Andernach H.+ "How to set up a data table" & "The Naming Game"
+1999RAAMx..13....2Andernach H., Slee O.B., Roy A.L., Ehle M.: Reliquias Extremas, resumen
+1999ATNFN..38....6Slee O.B., Roy A., Andernach H.: 1999, "Radio Relics,
+1998IAULA.........Dickel H., Andernach H. (on behalf of Task Group on
+1998JENAM..98..301Verkhodanov O.V., Trushkin S.A., Chernenkov V.N.,
+
+d) chapters in books:
+
+L01 1991IAUT...21A.449Altenhoff W.J., Andernach H., Baars J., Chini R.,
+L02 1995IOLDA......115Paturel G., Vauglin I., Andernach H., Garnier R.,
+L03 1999CIWSA...9....1Andernach H., 1998: "Internet Services for Professional
+L04 1999CIWSA...9...67Andernach H., 1998: "Internet Resources for Radio
+
+e) edited conference proceedings:
+
+M01 1998ASPC..153.....Grothkopf U., Andernach H., Stevens-Rayburn S., &
+M02 2000mhu..conf.....Kraan-Korteweg R.C., Henning P.A., Andernach H. (eds.), 2000, "Mapping The Universe: 

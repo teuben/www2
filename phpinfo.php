@@ -1,0 +1,4 @@
+# Print PHP information.
+
+<? phpinfo() ?>
+

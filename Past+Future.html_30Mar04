@@ -1,0 +1,389 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+	<title>ADASS Conference Series</title>
+	<!-- base href="http://www.adass.org/" -->
+</head>
+
+<body bgcolor="white" link="#cc0000" vlink="#993399">
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+<!--  Header  -->
+<tr valign="top">
+    <td colspan="4" valign="top" align="middle" bgcolor="white">
+	<img border="0" width="317" height="124" src="gifs/adass_org.gif" 
+	ALT="ADASS Conference Series"><NOBR>
+	<img border="0" width="18" src="gifs/1_tr.gif">
+    </td>
+</tr>
+
+<!--  Navigation  -->
+<tr valign="top">
+    <td valign="top" rowspan="2" bgcolor="white" width="5"></td>
+    <td valign="top" bgcolor="white" width="130">
+	<img border="0" width="130" height="1" src="gifs/1_tr.gif"><br>
+	<!-- img border="0" hspace="5" vspace="4" alt="" SRC="gifs/1_tr.gif" -->
+	<img border="0" hspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org/">
+	<font size="3"><B>ADASS Home</B></font></a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<FONT SIZE=2>
+	<a href="Past+Future.html">
+	Past/Future Venues</a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://adass.ipac.caltech.edu/">
+	ADASS 2004</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org/adass/proceedings">
+	e-Proceedings</a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org/adass/authors/">
+	Author Instructions</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org:8080/ADASS/Database">
+	Database Search</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="PaperPolicy.html">
+	Paper Policies</a>
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<!-- A HREF="Surveys.html" -->
+	Participant Survey
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<FONT SIZE=2>
+	<!-- a href="Survey99.html" -->
+	1999 Results
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<FONT SIZE=2>
+	<!-- a href="Survey98.html" -->
+	1998 Results
+	<br><br>
+	<img border="0" hspace="0" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	Organizing Committees
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="POC.html">
+	POC</a>
+	<br>
+	<img border="0" hspace="5" vspace="0" alt="" SRC="gifs/1_tr.gif">
+	<a href="http://www.adass.org:8080/meetings/adass2003/people/organizers">
+	LOC</a>
+	<br><br>
+	</FONT>
+    </td>
+
+<!--  Vertical Rule  -->
+    <td valign="top" bgcolor="white" width="5">
+	<img src="gifs/vertical_rule.gif" width="1" height="300"></td>
+
+<!--  Data Space  -->
+    <td rowspan="2" valign="top" bgcolor="white" width="460">
+	<table border="0" cellpadding="5" cellspacing="0" width="470">
+
+<!--  introduction and important info  -->
+	<tr>
+	    <td COLSPAN="2" valign="top">
+		<A HREF="http://adass.ipac.caltech.edu/">
+		<img border="0" width="416" height="317" ALT="ADASS XIV Logo" 
+		src="gifs/ADASS04Logo.jpg"></A>
+	    </TD>
+	</TR>
+
+	<TR>
+            <td COLSPAN="2" valign="top"><H2>Mark your calendars for ADASS 2004!</H2>
+		The  
+		<A HREF="http://adass.ipac.caltech.edu/">ADASS XIV</A>
+		conference will be held in Pasadena, California, USA from 
+		24 - 27 Oct., 2004.  The program will feature Invited 
+		and contributed talks, display sessions, demos, and 
+		Birds-of-a-Feather (BoF) sessions. The meeting will be 
+		followed by a Spitzer Observatory Science Planning &amp; 
+		Calibration Workshop on 28 Oct. <BR>
+	    </td>
+	</tr>
+
+<!--  Future Conferences  -->
+        <TR VALIGN="TOP">
+            <TD COLSPAN="2" ALIGN="TOP">
+		<FONT SIZE=5><STRONG>
+		Upcoming ADASS Conferences</STRONG></FONT>
+		<BR><BR>
+		<DL>
+		    <DT><img src="gifs/new.gif" alt="New">
+		        <B>ADASS XVI</B>
+			</DT>
+			<DD>The 16<SUP>th</SUP> annual ADASS conference 
+			will be in Tucson, Arizona, USA in 2006. </P>
+			</DD>
+
+		</DL>
+		<DL>
+		    <DT><B>ADASS XV</B></A>
+			</DT>
+			<DD>The 15<SUP>th</SUP> annual ADASS conference 
+			will be in Madrid, Spain in 2005. </P>
+			</DD>
+
+		</DL>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td colspan="2" align="top"><P>&nbsp;</P></td>
+        </tr>
+	</table>
+
+<!--  Past Conferences  -->
+	<table border="0" cellpadding="5" cellspacing="0" width="470">
+        <tr valign="top">
+            <td colspan=2 valign="top">
+		<FONT SIZE=5><STRONG>
+		Past ADASS Conferences</STRONG></FONT>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=140 HEIGHT=70 border="0" ALT="ADASS XIII" 
+			src="gifs/ADASS03Logo.jpg">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://adass.org/adass2003/">
+			<B>ADASS XIII</B></A><BR>
+		    </DT>
+		    <DD>The 13<SUP>th</SUP> annual ADASS conference 
+			was held in Strasbourg, France from 12-15 Oct. 
+			2003. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=118 HEIGHT=42 border="0" ALT="ADASS XII" 
+			src="gifs/ADASS02Logo.jpg">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://adass2002.stsci.edu/">
+			<B>ADASS XII</B></A><BR>
+		    </DT>
+		    <DD>The 12<SUP>th</SUP> annual ADASS conference 
+			was held in Baltimore, MD, USA from 13-16 Oct. 
+			2002. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=96 HEIGHT=63 border="0" ALT="ADASS XI" 
+			src="gifs/adass01.jpg">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://cadcwww.hia.nrc.ca/adass_2001/">
+			<B>ADASS XI</B></A><BR>
+		    </DT>
+		    <DD>The 11<SUP>th</SUP> annual ADASS conference 
+			was held in Victoria, BC, Canada from 30 Sept.-3 Oct. 
+			2001. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=46 HEIGHT=82 border="0" ALT="ADASS X" 
+			src="gifs/adass00.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://hea-www.harvard.edu/ADASS/">
+			<B>ADASS X</B></A><BR>
+		    </DT>
+		    <DD>The 10<SUP>th</SUP> annual ADASS conference 
+			was held in Boston, MA, USA from 12-15 Nov. 2000. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=54 HEIGHT=50 border="0" ALT="ADASS IX" 
+			src="gifs/adass99.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://www.cfht.hawaii.edu/ADASS/">
+			<B>ADASS IX</B></A><BR>
+		    </DT>
+		    <DD>The 9<SUP>th</SUP> annual ADASS conference 
+			was held in Kona, Hawaii, USA from 3-6 Oct. 1999. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=122 HEIGHT=38 border="0" ALT="ADASS VIII" 
+			src="gifs/adass98.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://www.ncsa.uiuc.edu/ADASS98/">
+			<B>ADASS VIII</B></A><BR>
+		    </DT>
+		    <DD>The 8<SUP>th</SUP> annual ADASS conference 
+			was held in Urbana, IL, USA from 1-4 Nov. 1998. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=64 HEIGHT=61 border="0" ALT="ADASS VII" 
+			src="gifs/adass97.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://ecf.hq.eso.org/adass/adass97.html">
+			<B>ADASS VII</B></A><BR>
+		    </DT>
+		    <DD>The 7<SUP>th</SUP> annual ADASS conference 
+			was held in Sonthofen, Germany from 14-17 Sept. 1997. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=69 HEIGHT=48 border="0" ALT="ADASS VI" 
+			src="gifs/adass96.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://www.cv.nrao.edu/adass">
+			<B>ADASS VI</B></A><BR>
+		    </DT>
+		    <DD>The 6<SUP>th</SUP> annual ADASS conference 
+			was held in Charlottesville, VA, USA from 22-25 Sept. 1996. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=50 HEIGHT=50 border="0" ALT="ADASS V" 
+			src="gifs/adass95_sm.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://iraf.noao.edu/ADASS/adass_conf/adass_95/adass95.html">
+			<B>ADASS V</B></A><BR>
+		    </DT>
+		    <DD>The 5<SUP>th</SUP> annual ADASS conference 
+			was held in Tucson, AZ, USA from 22-25 Oct. 1995. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=50 HEIGHT=67 border="0" ALT="ADASS IV" 
+			src="gifs/adass94.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://ra.stsci.edu/ADASS.html">
+			<B>ADASS IV</B></A><BR>
+		    </DT>
+		    <DD>The 4<SUP>th</SUP> annual ADASS conference 
+			was held in Baltimore, MD, USA from 26-28 Sept. 1994. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=50 HEIGHT=69 border="0" ALT="ADASS III" 
+			src="gifs/adass93.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="http://cadcwww.dao.nrc.ca/ADASS-homepage.html">
+			<B>ADASS III</B></A><BR>
+		    </DT>
+		    <DD>The 3<SUP>rd</SUP> annual ADASS conference 
+			was held in Victoria, BC, Canada from 13-15 Oct. 1993. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=37 HEIGHT=82 border="0" ALT="ADASS II" 
+			src="gifs/adass92.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="ftp://iraf.noao.edu/iraf/conf/adass-92">
+			<B>ADASS II</B></A><BR>
+		    </DT>
+		    <DD>The 2<SUP>nd</SUP> annual ADASS conference 
+			was held in Boston, MA, USA from 2-4 Nov. 1992. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	<TR>
+	    <TD align="right">
+		<img WIDTH=50 HEIGHT=72 border="0" ALT="ADASS I" 
+			src="gifs/adass91.gif">
+	    </TD>
+	    <TD>
+		<DL>
+		    <DT><A HREF="ftp://iraf.noao.edu/iraf/conf/adass-91">
+			<B>ADASS I</B></A><BR>
+		    </DT>
+		    <DD>The 1<SUP>st</SUP> annual ADASS conference 
+			was held in Tucson, AZ, USA from 6-8 Nov. 1991. </P>
+		    </DD>
+		</DL>
+	    </TD>
+	</TR>
+	</TABLE>
+    </TD>
+</TR>
+
+<!--  Dummy table row entry  -->
+<tr valign="top">
+    <!-- Dummy -->
+    <td valign="bottom" bgcolor="white" colspan="2" rowspan="2" width="130">
+              &nbsp;</td>
+    <td valign="bottom" bgcolor="white" width="5">&nbsp;</td>
+</tr>
+
+<!--  Copyright  -->
+<tr valign="top">
+    <td valign="bottom" bgcolor="white" width="5"></td>
+    <td valign="bottom" bgcolor="white" width="460">
+	<div align="center">
+	<FONT SIZE=1>Copyright &copy; 2003
+	The Association of Universities for Research in Astronomy, Inc.
+	All Rights Reserved. </FONT></B></div>
+    <td>
+</tr>
+</table>
+</body>
+
+</html>

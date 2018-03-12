@@ -1,0 +1,33 @@
+Presentation Information:
+Presentation Type: Oral
+Presentation Title: 
+Optimal Selection of Training Data for the Difference Boosting Neural Networks
+
+Abstract: 
+
+Two factors that are known to have direct influence on
+the classification accuracy of any neural network are\\
+(1) the network  complexity and (2) a faithful\\
+representation  of the domain space by the training\\
+data.  While pruning algorithms are used to tackle the\\
+complexity problem, no direct solutions are known for\\
+the second. Selecting training data at random from the\\
+sample space is the most  popular method followed.\\
+Despite its simplicity, this method does not ensure any\\
+guarantee that the training would be optimal. In this\\
+brief paper, we present a new method that is specific\\
+to difference boosting neural network but could probably\\
+be extended to other networks as well. The method is \\
+iterative and fast, ensuring optimal selection of the\\
+minimum training data from a larger set in an automated \\
+manner.\\
+We test the performance of the new method on the well\\
+known satellite image data from the UCI  repository for\\
+benchmarking machine learning tools and show that the \\
+performance of the new method is better than any\\
+published methods and that it requires only a fraction of \\
+the usual training data, thereby, making learning faster \\
+and more generic.\\
+The method is expected to be a very powerful tool in \\
+astronomy where one has to deal with huge chunks of\\
+data to isolate objects of interest.\\

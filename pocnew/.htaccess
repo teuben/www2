@@ -1,0 +1,4 @@
+AuthType      Basic
+AuthName      "Restricted POC Files"
+AuthUserFile  /u1/www/htdocs/poc/.htpasswd
+Require       user poc erikt

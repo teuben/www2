@@ -1,0 +1,48 @@
+* Presentation Information
+
+Oral
+
+Age determination for the nuclear stellar population of Active Galactic
+Nuclei (AGN) using Locally Weighted Regression (LWR).
+
+Recent spectroscopic surveys of nearby AGN have proven that a large
+fraction show high-order hydrogen Balmer absorption lines in the near-UV.
+These features are characteristic of young stars and therefore represent a
+strong evidence of the presence of recent star formation in these
+galaxies. From a theoretical point of view, it is very important to
+determine the age of these starbursts, in order to understand the nature
+of the starburst-AGN connection and its relation with galaxy formation and
+evolution. The characterization of the nuclear star forming region (its
+age and mass) is very difficult to achieve in AGN, due to the
+contamination of the nuclear stellar absorption lines by the AGN component
+itself.
+
+We present a new technique to determine the age of nuclear starbursts in
+galaxies with AGN using an ensemble of classifiers. The classifiers are
+specialized in the profile shape of high-order Balmer and Calcium K
+absorption lines and therefore very insensitive to the AGN contamination
+effect.
+
+An ensemble of classifiers is a group of classifiers whose outputs are
+combined in some way, usually by voting. Ensembles of classifiers
+normally have better accuracy than the individual classifiers that make
+them up. For this work, each member of the ensemble was created using a
+randomly selected attribute set, and each applied the locally weighted
+regression algorithm, an instance based learning method that explicitly
+retains the training data and uses them to build a local linear model,
+valid only in the neighborhood of the point of interest, each time a
+prediction needs to be made. Our training data consist of 23 high spectral
+resolution synthetic models of starbursts of different ages. Each
+classifier was trained with randomly generated subsets of features, and
+the ensemble was tested using ten-fold cross-validation and an
+analytically classified test set. An accuracy of about 0.3dex in
+logarithmic age was achieved.
+
+The method was then applied to the optical/near UV spectra of nuclear
+regions of nearby Seyfert galaxies covering the wavelength region
+3600-5300 Angstroms and it was found to be very insensitive to the AGN
+dilution. The results obtained by means of machine learning are compared
+with those produced by exhaustive search in terms of time and precision.
+We conclude that the automatic learning method greatly surpasses the
+performance of the traditional method.
+

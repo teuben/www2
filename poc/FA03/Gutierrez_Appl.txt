@@ -1,0 +1,45 @@
+Subject: Request of financial aid
+From: Raúl Gutiérrez Sánchez <raul@laeff.esa.es>
+Date: Fri, 11 Jul 2003 12:39:44 +0200
+To: adass2003@newb6.u-strasbg.fr
+CC: raul@laeff.esa.es
+
+Applicant Information
+      o Name of Applicant:	Raúl Gutiérrez-Sánchez
+      o Postition Title:	Software Engineer
+      o Institution:            LAEFF-INTA
+      o Postal Address:         Villafranca del Castillo Satellite
+				Tracking Station, 
+				E-28691 Villanueva de la Cañada
+				Madrid - Spain
+
+      o Email Address:          raul@laeff.esa.es
+      o Phone Number:           +34 91 813 12 60
+      o Citizenship:            Spanish
+
+* Presentation Information
+      o Requested Presentation Type: Poster
+      o Presentation Title: The Optical Monitoring Camera Data Server:
+	Contents and Functionalities.
+      o Presentation Abstract:
+
+The ESA's space observatory INTEGRAL (INTErnational Gamma-Ray Astrophysics
+Laboratory) was launched on October 17, 2002. The OMC (Optical Monitoring
+Camera) is one of the onboard instruments, designed to obtain V-Johnson
+photometry from the prime targets of the two INTEGRAL Gamma-ray instruments 
+(15 keV-10 MeV) with the support of the X-ray monitor(3-35 keV). OMC offers 
+the first opportunity to make long observations in the optical band
+simultaneously with those at X-rays and Gamma-rays. This capability will 
+provide invaluable diagnostic information on the nature and the physics 
+of the sources over a broad wavelength range.
+
+LAEFF has developed a scientific archive, containing the data generated
+by the OMC, and an access system capable of performing complex searches. A 
+remarkable point is the existence of visualization and analysis tools, 
+available from the user's interface, aiming at optimizing the scientific 
+return of the OMC data. In this poster, the main functionalities and 
+contents of the system are described.
+
+* Requested Financial Aid
+      o Hotel (4 nights)
+     o Registration Fee

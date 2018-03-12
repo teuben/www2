@@ -1,0 +1,99 @@
+A. Accomazzi      : Publishing Links to Astronomical Data On-line
+H.-M. Adorf       : Astronomical Catalogues -- Simultaneous Querying & Matching
+M. Agafonov       : 2-CLEAN DSA Reconstruction...
+A. Allan          : eSTAR: Astronomers, Agents & when Robotic Telescopes aren't...
+M. Allen          : Organisation of Data Sets in Virtual Observatories
+C. ARVISET        : Adapting ESA Archives Inter-Op. Services to VO Standards
+C. Baffa          : The Skysoft project
+M. Beck           : Data Processing at the INTEGRAL Science Data Centre
+R. Bentley        : Virtual Solar Inc.
+B. Berriman       : Montage: A Grid Enabled Image Mosaic Service for the NVO
+S. Bhatnagar      : Scale Sensitive Deconvolution
+P. Bristow        : Model Based Corrections [for] Radiation Damaged Detectors
+T. Budavari       : Open SkyQuery: VO Compliant Dynamic Federation of... Archives
+A. M. Chavan      : Moor: Web Access to End-to-End Data Flow Information at ESO
+I. Chilingarian   : PostgreSQL: the Suitable DBMS Solution...
+J. W. Clasen      : Web Services in Telescope Interoperability
+J. Colberg        : Webservices for the Sloan Digital Sky Survey
+M. J. Currie      : Extending ORAC-DR for... processing of ESO & ClassicCam data
+S. Derriere       : UCDs in the IVOA context
+R. Diaz           : Automated identification of spectra in Schmidt plates
+L. Dobos          : Spectrum and bandpass services for the Virtual Observatory
+S. Doe            : Extending Sherpa Data Analysis with S-Lang
+P. Dowler         : Constraint-based Abstract Querying
+D. Durand         : The WFPC2 associations Version 2: Toward VO
+F. Economou       : Observer versus s/w engineer... armchair astronomers
+G. Fekete         : HTM2: Spatial Toolkit for the Virtual Observatory
+C. Gabriel        : Distributed development... of a large science analysis system...
+A. L. Garcia      : Images analysis in Asteroid and Satellites Astrometry
+K. Gillies        : Collaborative Support & Observing w/the Gemini Observing Tool
+X. Gnata          : End-to-End Simulation of the JWST/NIRSpec Instrument
+S. Goderya        : Advances in... Algorithms for Morphological Classification...
+M. J. Graham      : QUEST: A case study in designing sky surveys in the VO era
+D. Gratadour      : Sub-pixel image centering with a ML estimator
+A. Gray           : Algorithms for Statistics on Very Large Datasets
+N. Gray           : Data models in the VO: how do they make code better?
+F. Guglielmetti   : Source Detection with Bayesian Inference on ROSAT...
+K. Haggouchi      : The VLT Data Flow System: a flexible 'science support engine'
+N. Hambly         : The SuperCOSMOS Science Archive
+M. Irwin          : Some (surprising?) uses of Aperture Photometry
+W. Joye           : New User Requirements for Astronomical Data Visualization
+Y. Jung           : VLT instruments pipeline system overview
+S. Kale           : Toolkit for Scientific Discovery using VOTables
+T. Kimball        : An Authenticated FTP Staging Area for Proprietary Data
+P. Kopp           : Metadata generic server prototyping at CNES
+T. Krueger        : APT: Hubble Space Telescope's Proposal Preparation Tool
+P. Kulkarni       : VOTable Java Streaming Writer & Applications
+J. Lewis          : The WFCAM Data Pipelines
+L. K. Lundin      : Managing Bad Pixels in Image Processing
+J.P. McMullin     : The AIPS++ Project
+J. A. Mattei      : What is New in the AAVSO
+M. T. Meharga     : The INTEGRAL Archive System
+A.M.Mickaelian    : The Digitized First Byurakan Survey - DFBS
+K.J. Mighell      : High Performance Computing for Space Using COTS...
+S. Monkewitz      : Compare: A... Catalog Cross-Comparison Engine for NVO
+G. Moreels        : Fourier analysis of... NIR atmospheric emission...
+N. Morisset       : Pre-processing the INTEGRAL telemetry at ISDC
+H. Negoro         : The MAXI Software System
+M.A. Nieto-Santisteban : ImgCutout, an Engine of... Astronomical Discovery
+J.E. Noordam      : Verification of LOFAR selfcal on real data
+W. O'Mullane      : Batch Query System with... Local Storage for SDSS...
+P. Ortiz          : Merging data from a collection of sources
+F. Pasian         : DRACO/Italian participation in VO activities
+N. Philip         : Optimal Selection of Training Data for... Neural Networks
+R. Plante         : Resource Registries for the Virtual Observatory
+N. Purger         : Build you own SkyNode!
+A. Richards       : VO access to complex data: MERLIN & other interferometry archives
+G. Rixon          : Taming the Grid
+G. Rixon          : Visualizing data cubes on the Grid
+C. Rossi          : Analysis of old objective prism spectra with modern systems
+A. H. Rots        : The Chandra Bibliography Database
+R. Rohlfs         : Data Management with the Object Oriented Framework ROOT
+J.C. Rountree     : JPEG 2000 Compression for... Astronomical Data
+A. Salama         : User provided reduced data... in the ISO Data Archive
+P. Schipani       : S/W reverse engineering... the VST telescope control s/w case
+J. Schwarz        : The ALMA Software System
+S. L. Scott       : The CARMA Software System
+O. Smirnov        : The LOFAR Global Sky Model: Design Challenges
+T. Solorio        : Automated determination of stellar population parameters...
+H. Sommer         : Transparent XML Binding using the ALMA Common Software...
+A. Szalay         : Spatial Queries with VO Regions in SQL
+T. Tamura         : Data Archive and Transfer System (DARTS) of ISAS
+A. Thakar         : From FITS to SQL - Loading and Publishing the SDSS Data
+J. Torres         : Age Determination for the Nuclear Stellar Pop. of AGNs...
+S. O. Tuairisg    : Automated reduction & analysis... from multiple data archives
+K. v.d. Schaaf    : Efficient usage of HPC horsepower for the LOFAR telescope
+H. van Langevelde : Towards a large FOV archive for the European VLBI Network
+F. Valdes         : The NOAO Mosaic Pipeline
+E. Velu           : Mandrake-Clustering... HPC Linux-oriented Distribution
+O.V. Verkhodanov  : GLESP: a New sky Pixelization scheme for CMB maps
+B. Voisin         : Using a reversed ETC for querying uncalibrated archives
+S. Walker         : The Gemini Online Data Processing System
+R. Walter         : The INTEGRAL ground segment, data and science processing
+N.A. Walton       : AstroGrid: Initial Deployment of the UK's VO
+T. Wen            : BinX--A middleware for binary data access
+A. Wicenec        : The ALMA Archive: A Centralized System for Info. Services
+R. Williams       : Atlasmaker: Grid-enabled Multiwavelength Imaging
+J. K. Withington  : Distributed Data Storage Systems for Astronomy
+E. Wieprecht      : The HERSCHEL/PACS Common Software System
+O. Zhelenkova     : An Experience of Data Fusion from Diverse Info...

@@ -1,0 +1,31 @@
+Author: Xavier Gnata
+
+ABSTRACT :
+----------
+End-to-end simulation of the JWST/NIRSpec instrument
+
+The near-infrared multi-object spectrograph NIRSpec is one of the three
+science instruments onboard the future James Webb Space Telescope. NIRSpec
+will cover the 0.6 to 5.0 µm wavelength range and will be able to obtain
+simultaneous spectra of more than 100 objects in a 9 square arcminute
+field of
+view, thanks to an array of micro-shutters. It has been realised that an
+accurate modelling of the instrument was needed: to obtain realistic
+estimates
+of its expected performances and to check that the science goals could be
+achieved; to define and validate the operation and calibration
+scenarios; and,
+on the long run, to develop and test the data reduction software. In this
+context and as part of the EADS NIRSpec study funded by ESA, we have
+developed
+an end-to-end Fourier-optics model of the instrument, which takes into
+account
+both geometrical aberrations and diffraction. In this presentation, I will
+first describe the model, its objectives and its implementation. I will
+then
+show some results and how they are used to estimate the instrument
+performances. I will conclude by stressing that this kind of modelling
+is now
+becoming a standard task in the studies of some major astronomical
+instruments.
+

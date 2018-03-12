@@ -1,0 +1,143 @@
+Subject: financial aid
+From: Zhelenkova Olga <zhe@sao.ru>
+Date: Mon, 14 Jul 2003 12:58:31 +0400 (MSD)
+To: adass2003@newb6.u-strasbg.fr
+
+Applicant Information
+
+  * Name of Applicant  Olga Zhelenkova
+  * Position Title    researcher
+  * Institution        Special Astrophysical Observatory of RAS
+  * Postal Address     369167, b.2, app.64, Niznij Arkhyz,
+		       Karachajevo-Cherkesia, Russia
+  * Email Address      zhe@sao.ru
+  * Phone Number       7-901-4954941
+  * Citizenship        Russia
+  * Academic Level (if applicant is a student):
+
+Requested Financial Aid
+
+    * Hotel (up to 4 nights): yes
+    * Registration Fee:       yes
+    * Demo Fee:               no
+
+  * Vita and Bibliography
+Born in 1955, in Grozny. Graduated from the Mathematical and Mechanical Department
+of the Leningrad State University in 1978, as astronomer. Then I carried out
+scientific investigations for the Special Astrophysical Observatory
+of Russian Academy of Sciences, where I work now as a researcher of
+Informatica Department. I am is a member of the European FITS Committee since
+2000. Participation in the project "Russian Virtual Observatory".
+My work experience: investigation of radio sources
+(http://sed.sao.ru/rc_archive.html); data processing with MIDAS, Starlink;
+programming with Fortran, C, Perl, bash, SQL, JavaScript,
+HTML; FITS format implementation for the SAO RAS observation data; seach
+information system design for the SAO RAS observation archive.
+My home page: http://www.sao.ru/hq/zhe/.
+Publications: about 120 papers, theses, reports.
+
+* Bibliography
+1. V.V. Vitkovskij, O.P. Zhelenkova, I.D. Karachentsev, Yu.N. Parijskij,
+N.A. Tikhonov, V.S. Shergin,
+The 6-m Telescope Programme of Optical Identification of the Radio Sources
+Found in the Deep Surveys with the RATAN-600 Radio Telescope.
+Soobschenija SAO, 1987, v. 53, pp 86-88.
+2. V.Vitkovsky, O.Zhelenkova, V.Ryadcenko, V.Shergin, The Usage of
+FITS-format for astronomical data exchange and archiving, "Soobschenya
+SAO", v.59, pp60-67,1988
+3.A.Borisenko, V.Vitkovsky, O.Zhelenkova, V.Ryadcenko, A.Kopylov,
+S.Markelov, V.Shergin, The System of Images Registration with CCD Device
+of the 6-meter Telescope, "Astrophizicheskie Issledovaniya",
+v.32, pp 157-165, 1989
+4. M.Goss, Yu.Parijsky, N.Soboleva, A.Temirova, Val.Vitkovsky,O.Zhelenkova,
+M.Naugol'naya, The RC Catalog Selection with Ultra Steep Spectra
+(alpha > 1.1) Study: VLA Observations and Optical Identifications,
+"Astronomichesky Zhurnal", Moscow, v.69, pp 673-694, 1992
+5. Chernenkov V.N., Erukhimov B.L., Likhvan O.P., Monosov M.L., Shergin V.S.,
+Verkhodanov O.V., Zhelenkova O.P., Basic principles of flexible
+astronomical data processing system in UNIX enviroment,
+"Astrophizicheskie Issledovaniya", 36, 132-137, 1992.
+6. Goss W.M., Parijskij Yu.N., Kopylov A.I., Zhelenkova O.P.,
+Naugolnaja M.N., Soboleva N.S., Temirova A.V., Vitkovskij Val. V.,
+First Generation Objects in the Universe: RATAN-600, VLA, 6m Telescope
+Joint Project Approach, Tr.J. of Physics, v.18, 894-897, 1994
+7. M.Goss, Yu.Parijsky, N.Soboleva, A.Temirova, A.Kopylov, O.Zhelenkova,
+O.Verkhodanov, M.Naugolnaya, Val. Vitkovsky, The Optical Identifications
+of the RC Catalog Radio Steep Spectra Sources Selection with 6-meter
+Telescope: I. the Demands to Coordinates Accuracy and the Image Depth,
+VLA Observations and Pfotometric Redshifts Ways of Evaluation,
+"Astronomichesky Zhurnal", Moscow, v.72, part 3, pp 437-446
+8. M.Goss, Yu.Parijsky, N.Soboleva, A.Temirova, A.Kopylov, O.Zhelenkova,
+O.Verkhodanov, M.Naugolnaya, Val. Vitkovsky, The Optical Identifications
+of the RC Catalog Radio Steep Spectra Sources Selection with 6-meter
+Telescope: II. Optic Observations, "Astronomichesky Zhurnal", Moscow,
+v.72, pp 613-629
+9. Pariiskii Yu. N., Goss W. M., Kopylov A. I., Soboleva N. S.,
+Temirova A. V., Verkhodanov O. V., Zhelenkova O. P.
+1998. Completion of the Optical Identification of RC Catalog Objects with
+Ultra Steep Spectra and Estimation of Their Redshifts.
+Astronomy Reports, V.42, P. 425, 1997
+10. Y. Parijskij, W.Goss, A. Kopylov, N. Soboleva, O. Verkhodanov,
+A. Temirova, Zhelenkova O., The Compleating of the RC Catalog
+Selection Objects Optical Identifications with Ultra Steep SpectraI
+and Their Redshift Evaluations, "Astronomichesky Zhurnal",
+v.75, part 4, pp 483-497, 1998
+11. Pursimo T., Nilsson K., Teerikorpi P., Kopylov A.I., Soboleva N.S.,
+Parijskij Yu.N., Verkhodanov O.V., Temirova A.V., Zhelenkova O.P.,
+Goss W.M., Baryshev Yu.N., Sillapaa A., Takalo L.O., Optical morphology
+of distant RATAN-600 radio galaxies from subarcsecond resolution NOT
+images, A&A, 2.2.1998
+12. S.N.Dodonov, Yu.N.Parijskij, W.M.Goss, A.I.Kopylov, N.S.Soboleva,
+A.V.Temirova, O.V.Verkhodanov, and O.P.Zhelenkova,
+Spectroscopy of Five Radio Sources in a Subsample of RC Objects with Steep
+Spectra, Astronomy Report, v.43, N5, 1999, pp. 275-283
+13. S.N.Dodonov, Y.N.Parijskij, W.M.Goss, A.I.Kopylov, N.S.Soboleva,
+A.V.Temirova, O.V.Verkhodanov, O.P.Zhelenkova,
+"The Big Trio": Spectroscopy of the subsample of the RC objects, 1999,
+Astron.Zh., v.76,
+14. Yu.N.Parijskij, A.I.Kopylov, W.M.Goss, N.S.Soboleva, A.V.Temirova,
+O.V.Verkhodanov, O.P.Zhelenkova, and A.V.Chepurnov, RATAN-600 and the Early
+Universe, Astronomical and Astrophysical Transactions, 1999, Vol.18, pp. 61-65
+15. Oleg V. Verkhodanov, Alexander I.Kopylov, Olga P. Zhelenkova,
+Natalia V. Verkhodanova, Vladimir N. Chernenkov, Yurij N. Parijskij,
+Natalia S. Soboleva, Adelina V. Temirova, The software system
+"Evolution of radio galaxies", 2000, Astronomical and Astrophysical
+Transactions, v.19, pp 663-667
+17. V.Vitkovskij, V.Chernenkov, A.Ivanov, V.Gurin, N.Kalinina, V.Komarov,
+S.Moiseev, A.Nazarenko, V.Shergin, O.Zhelenkova,
+The remote access system for the largest Russian Telescopes BTA and RATAN-600,
+Baltic Astronomy, 2000, v.9, N4, pp 527-531
+18. V.Vitkovskij, V.Chernenkov, N.Kalinina, T.Kiyashko, V.Kondratenko,
+L.Pischik, V.Shergin, O.Zhelenkova,
+The project of distributed information system OASIS,
+Baltic Astronomy, 2000, v.9, N4, pp 578-582
+19. O.V. Verkhodanov, A.I.Kopylov, O.P. Zhelenkova, N.V. Verkhodanova,
+V.N. Chernenkov, Yu.N. Parijskij, N.S. Soboleva, A.V. Temirova,
+Creation of a database of spectral energy distributions of radio galaxies,
+2000, Baltic Astronomy, v.9, N4, pp 668-669
+20. N.S. Soboleva, W.M.Goss, O.V. Verkhodanov, O.P. Zhelenkova, A.V. Temirova,
+A.I.Kopylov, Yu.N. Parijskij, RC 0105+0501 is a radio galaxy with z=~3.5,
+Pis'ma v AZh, 2000, v.26, pp 723-728.
+21. Oleg V. Verkhodanov, Alexander I. Kopylov, Yurij N. Parijskij,
+Natalia S. Soboleva, Olga P. Zhelenkova, Adelina V. Temirova, Joshua Winn,
+Andre Fletcher, Bernard Burke,
+RC J1148+0455 identification: gravitational lens or group of galaxies ?
+2000, Astronomical and Astrophysical Transactions, v. 19, pp 537-542
+22. Verkhodanov, O. V.; Parijskij, Yu. N.; Soboleva, N. S.; Kopylov, A. I.;
+Temirova, A. V.; Zhelenkova, O. P.; Goss, W. V.
+Results of investigation of radio galaxies of the survey "Cold": photometry
+colour redshifts and the age of the stellar population.
+Bulletin of the Special Astrophysical Observatory,Vol. 52, p. 3 - 133 (2001)
+23. Verkhodanov, O. V.; Kopylov, A. I.; Pariiskii, Y. N.; Soboleva, N. S.;
+Temirova, A. V.; Zhelenkova, O. P.
+Color redshifts and the age of the stellar population of distant RC radio
+galaxies. Astron. Rep., 46, 531-542 (2002)
+24. V.Vitkovskij, O.Zhelenkova, N.Kalinina, V.Chernenkov, and V.Shergin
+The Russian Vurtual Observatory Project Insight
+Proc. Conf. 'Toward International Virtual Observatory' (in press)
+25. Oleg V. Verkhodanov, Vladimir K. Kononov, Alexander I. Kopylov,
+Olga P. Zhelenkova, Vladimir N. Chernenkov
+System to study evolution of radio galaxies as a part of a virtual
+radio observatory, Proc. Conf. 'Toward International Virtual Observatory' (in press)
+
+

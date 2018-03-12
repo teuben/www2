@@ -1,0 +1,36 @@
+PostgreSQL: the suitable DBMS solution for astronomy and astrophysics.
+----------------------------------------------------------------------
+Chilingarian, I.; Bartunov, O.; Richter, J.; Sigaev, T. (author list is preliminary)
+----------------------------------------------------------------------
+
+PostgreSQL, the open-source RDBMS, is probably one of the best database
+solutions for astronomy and astrophysics. Compared to several available
+commercial and non-commercial database engines, it appears to be the most
+versatile.
+
+At present PostgreSQL is being used in several well-known astronomical
+projects, for example in the HyperLEDA database, http://leda.univ-lyon1.fr/
+and in the MAPS, http://aps.umn.edu/ (Minnesota Automated Plate Scanner)
+Catalog of the POSS1.
+
+Extensibility is the most remarkable feature of this RDBMS - it allows to
+develop custom data types, queries and indexed access methods, optimized for
+specific tasks, without knowledge of database internals. This is very
+important for "non-standard" tasks, typical for scientific reaserch.
+
+We present two backend programmed modules.
+
+    * pgSphere, the ready-for-use contribution module for PostgreSQL, offers
+the capability for dealing with geometric objects in spherical coordinates.
+This module demonstrates all the possibilities of backend programming using
+the GiST interface for spatial indexing of spherical data. pgSphere can be
+very useful in astronomy and the geo-sciences. Performance tests are
+included.
+
+    * pgAstro, the contribution module based on the pgSphere engine,
+provides astronomy-specific functions and methods, for example positional 
+astronomy and physical models.
+
+We show that PostgreSQL is the most advanced database solution for
+astronomical applications and would be very useful for different Virtual
+Observatory projects.

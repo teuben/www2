@@ -1,0 +1,46 @@
+Presentation Information
+
+ * Requested Presentation Type: Oral/Poster
+ * Presentation Title :
+   An experience of data fusion from diverse information resources on
+   the example of optical identification radio sources.
+ * Presentation Abstract
+
+The operation of the Radio Astronomical Database CATS with Linux cluster.
+
+Vladimir Chernenkov, Sergei Trushkin, Oleg Verkhodanov, SAO RAS, Russia
+
+
+The ``CATalogs supporting System'' (CATS; http://cats.sao.ru)
+is in operation since  1996 and is developed in the Special Astrophysical
+Observatory RAS. CATS includes common accessible collection of the all largest
+radio astronomical catalogues, many X-ray, optical, and infrared
+catalogues of the extragalactic  sources. In the database there are special
+search programs (select/match) allowed to search for cosmic objects in
+selected sky area with a batch command by e-mail query or HTML-forms and
+CGI-routines.
+
+A powerful processor (CPU) needs for the CATS database architecture,
+operating with the 330 large catalogs, containing from 200 to 2000000 rows of
+calculating data and carrying out massive celestial coordinates computing for
+a search or a cross-identification of cosmic objects.
+
+OpenMosix cluster over Linux PCs resolves such task actually.
+The operation with e-mail queries is relevant for multi-computing of many
+processes. Then the Apache demon ``httpd'' loading needs the ``Migshm''
+patching of the openmosix-kernel for effective child's processes migration,
+used a common shared memory.
+We tested the heterogeneous cluster (PC AMD-K7 1 GHz, and PC Intel-P4 1.8 GHz),
+operating under the Linux Red Hat 8.0, (plus openMosix 2.4.20-2 and Migshm-1.3
+DSM) connected by Fast Ethernet (100 Mbit) communication.
+
+References:
+
+Verkhodanov O.V., Trushkin S.A., Chernenkov V.N. "CATS: a database system
+    of astrophysical catalogues." Baltic Astronomy, 1997, V.6, No 2. P.275-278.
+    http://cats.sao.ru/
+
+Moshe Bar "The openMosix Project" http://openmosix.sourceforge.net/
+
+Maya, Anu, Asmita, Snehal, Krushna "MAASK - Migshm is an experimental DSM
+    patch for openMosix" http://mcaserta.com/maask/

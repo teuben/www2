@@ -1,0 +1,48 @@
+Subject: Request for Financial Aid
+From: "Joerg Colberg" <astro@jmcolberg.com>
+Date: Mon, 14 Jul 2003 16:04:38 -0500
+To: adass2003@newb6.u-strasbg.fr
+
+Dear Sir or Madam,
+
+   I want to apply for financial aid for the ADASS 2003 conference.
+I am intending to give a talk about "Webservices for the Sloan
+Digital Sky Survey", possibly even doing a demo. The talk will
+introduce a first webservice built for the Sloan Digital Sky
+Survey, which allows people to define a set of data to extract
+from the SDSS database and then to run a very efficient user-
+defined N-point correlation function code on it. That way, the
+user can benefit from remote computing power and network
+traffic itself is kept to a minimum. The N-point correlation is
+a standard analysis done on astronomical datasets and it is
+only the first of a series of services which will be implemented
+for the SDSS.
+   Find appended a CV with a list of publications. My personal
+information:
+
+Name of Applicant: Joerg M. Colberg
+Position Title: Research Associate (postdoc)
+Institution: University of Pittsburgh
+Postal Address: 3941 O'Hara Street, 100 Allen Hall
+                Pittsburgh PA 15260, USA
+Email Address: astro@jmcolberg.com
+Phone Number: +1.412.624.9027
+Citizenship: German
+
+   I am requesting financial aid for the hotel accomodation
+and the registration fee.
+
+Sincerely,
+           Joerg M. Colberg
+___________________________________________________________
+Dr. Jo:rg M. Colberg
+University of Pittsburgh
+Department of Physics and Astronomy
+3941 O'Hara Street
+Pittsburgh PA 15260
+USA
+
++1.412.624.9027
+ 
+http://lahmu.phyast.pitt.edu/~colberg
+http://www.jmcolberg.com/weblog

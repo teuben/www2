@@ -1,0 +1,30 @@
+The processing modern observations by programming system ERA
+
+      Eleonora I. Yagudina
+     Institute of Applied Astronomy of RAS,Naberezhnaya Kutuzova 10,
+     St. Petersburg, Russia
+        e-mail: eiya@quasar.ipa.nw.ru
+
+     The modern sets of observations demand special programming system
+with built in it database.
+The special problem-oriented programming system ERA (Ephemeris Research
+in Astronomy) with included into ERA database has been developed in IAA
+RAS under Krasinsky [1].
+The system is designed to support scientific research in astronomy and
+space science (ephemeris prediction,simulation of observation programs,
+comparison of positional observations with dynamic theories and so on)
+as well as for the aims of the astronomical educations. With ERA it
+is possible to work out new applications using a dedicated high level
+language SLON which manages an applied program package for dynamic and
+ephemeris astronomy.
+ERA supports ephemerides of the Sun, the Moon, major planets and their
+satellites, lunar and planet landers, minor planets, Earth's artificial
+satellites, spacecrafts.
+If the ephemeris degrades with time and needs updating, this work may
+be carried out with ERA as a tool from an analysis of appropriate
+observations.
+To facilitate the work of this kind useful astrometric catalogues and
+other data are included into the ERA database.
+The example of processing radar and photographic mimor planet observations
+using ERA system and data kept in the form of tables is illustrated.
+

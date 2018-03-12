@@ -1,0 +1,65 @@
+Date: Fri, 11 Jul 2003 06:00:19 -0500
+From: "Shaukat N. Goderya" <goderya@phy.ilstu.edu
+To: adass2003@newb6.u-strasbg.fr
+Cc: goderya@phy.ilstu.edu
+Subject: Application for Financial Aid for Shaukat Goderya
+
+Dear Sir,
+I am interested in attending the ADSS 2003 conference in October to=20
+present an Oral paper. I am requesting financial aid and therefore=20
+submitting an application with requested information. Please let me the=20
+decision on my application as soon as possible. Thanks.
+Yours Sincerely,
+Shaukat Goderya
+Department of Physics
+Illinois State University
+USA
+
+*   Applicant Information
+          o Name of Applicant: Dr. Shaukat N. Goderya
+          o Postition Title: Director of General Education Physics=20
+ Laboratories
+          o Institution: Illinois State University
+          o Postal Address: Department of Physics, ISU, Normal, IL=
+ 61790-4560
+          o Email Address: goderya@phy.ilstu.edu
+          o Phone Number: 309-438-5247
+          o Citizenship: US
+          o Academic Level (if applicant is a student): Undergraduate,
+ Graduate: Not Applicable
+    * Vita and Bibliography (maximum of 2 printed pages): See attached pdf
+ file
+
+    * Requested Financial Aid
+          o Hotel (up to 4 nights): Yes
+          o Registration Fee: Yes
+          o Demo Fee: NO
+
+    * Presentation Information
+          o Requested Presentation Type: Oral, Poster, Demo: Oral
+          o Presentation Title: 
+Advances in Automated Algorithms for Morphological Classification of Galaxies 
+based on Shape Features.
+          o Presentation Abstract:
+Among the many celestial objects in the universe, galaxies offer insights
+as to how the universe was formed and is continuing to develop. The
+morphological classification of galaxies is important just for this
+reason. The challenge lies in classifying the estimated billions of
+galaxies that are in the universe. The Hubble Deep Field has already
+produced images which contain thousands of galaxies in a region of
+the sky which is dark not only to the naked eye, but also to very
+large ground based telescopes. The Sloan Digital Sky Survey has started
+to produce vast amounts of data which would take expert human classifiers
+an tremendous amount of time to sift through the images and classify
+the galaxies one by one. The automated procedure described here uses
+an image enhancing technique, thresholding, shape feature extraction
+and a supervised artificial neural network to classify the galaxies.
+When trained to classify galaxies as E/S0 or S, the network is able
+to learn 98.3\% of the galaxies correctly and identify 89.9\% of galaxy
+images in a test set. The major challenge is in the development of rhobust
+and automated thresholding schemes. With manually thresholded images and
+Difference Boosting Neural Network we were able to acheive considerable=20
+success
+in developing a supervised classifier capable of sorting galaxies into=20
+subclasses.
+

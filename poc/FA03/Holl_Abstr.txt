@@ -1,0 +1,18 @@
+                        Presentation information
+
+Requested presentation type: Poster
+Presentation title: Electronic journals as databases
+
+
+                               Abstract
+
+ The Information Bulletin on Variable Stars is a bulletin fully available in
+electronic form. We are working on converting the text, tables and figures
+of the papers published to a database. IBVS Data Service will serve
+information on variable stars, like finding charts, comparison stars,
+light curves etc., and will be VO compatible.
+
+
+Requested financial aid: Registration fee
+
+

@@ -1,0 +1,64 @@
+ From: Wenger Marc <wenger@newb6.u-strasbg.fr>               [Full Headers]
+ Subject: [Fwd: financial aid recommendation letter]       [Undecoded Letter]
+ Date: Tue, 22 Jul 2003 14:40:15 +0200
+ To: Dick Shaw <shaw@noao.edu>
+Hi Dick,
+
+We'll soon create a new acronym: YARL = Yet Another Recommandation Letter.
+
+Here is one, from Ray Plante for Paulo Cortes.
+
+Marc.
+
+-------- Original Message --------
+Subject: financial aid recommendation letter
+Date: Tue, 22 Jul 2003 07:31:40 -0500 (CDT)
+From: Ray Plante <rplante@poplar.ncsa.uiuc.edu>
+Reply-To: Ray Plante <rplante@ncsa.uiuc.edu>
+To: adass2003@newb6.u-strasbg.fr
+
+Dear Program Organizing Committee,
+
+I am happy to recommend to you Paulo Cortes for financial aid to
+attend ADASS 2003. Paulo is a breed of graduate student that we, as a
+community, are in great need of. While pursuing a PhD in
+millimeter-wave astronomy here at the University of Illinois (under
+the direction of Prof. Richard Crutcher), he works with me as a
+research assistant at NCSA on parallel computing issues in radio
+astronomy. As an RA at NCSA, he has worked with me to profile I/O
+performance of AIPS++ applications on Linux clusters. During that
+project, I was impressed with his efforts to tap into expertise in the
+university's computer science department. His current work, as you
+can see from his abstract, is about developing portable parallel
+software modules for astronomical processing. Because parallel
+processing in astronomy today is still fairly specialized and
+underdeveloped, this work focuses on techniques to bring it more into
+mainstream use. He also has a great interest in the future of ALMA.
+Paulo's competence and excitement for both research astronomy and
+astronomical computing makes him a valueable asset and a person worth
+investing in for our community.
+
+ADASS can be an important resource in the education of young
+astronomer-programmers. It provides them with a snapshot of the
+current problems in our field and exposes them to the latest
+techniques and technologies. And perhaps because of their lack of
+entrenchment in large projects, students like Paulo are more capable
+of gathering new ideas from a broad spectrum of activity. I don't
+believe, however, that any student could harvest effectively at ADASS.
+It first takes a vision of what astronomical computing can do for
+scientific research. It also requires an ability to build skills
+outside the classroom through one's own work and by engaging with the
+work of others. I believe Paulo has these tools to benefit from
+ADASS.
+
+Sincerely,
+Dr. Raymond Plante
+NCSA
+
+--
+==============================================================================
+Marc Wenger CDS Centre de donnees astronomique de Strasbourg
+mailto:wenger@astro.u-strasbg.fr Observatoire Astronomique de Strasbourg
+Tel: +33-(0)3 90 24 24 33 11, rue de l'Universite
+Fax: +33-(0)3 90 24 24 25 F-67000 Strasbourg (France)
+------------------------------------------------------------------------------

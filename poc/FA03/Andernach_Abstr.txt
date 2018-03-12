@@ -1,0 +1,43 @@
+Abstract of oral presentation on ADASS XIII, Strasbourg, 12-15 Oct. 2003:
+
+  (NOTE: the presentation could also be split in two contributions, one for 
+    ADASS XIII proper, the other for the IOVA interoperability meeting)
+
+      Accessibility and exploitation of "published" extragalactic data:
+                    public and private efforts
+
+                          Heinz Andernach
+
+        Dept. of Astronomy, Univ. Guanajuato, Guanajuato, Mexico
+
+The current situation of public accessibility of tabular data contained in
+publications is reviewed, including access from sources like astronomical
+data centers, preprint servers, and electronic journals. It is shown that
+despite the enormous increase, during the last decade, of data stored at 
+the data center(s), the current coverage of articles with tabular data on
+at least 100 objects is near 50 per cent only, albeit with a (not too
+strong) trend for better coverage of larger tabular data sets. Similarly
+it is shown that the backlog of catalogues "in the process of being integrated
+in the CDS catalogue archive" (INPREP) is currently at 10 per cent of the
+total catalogue archive, with a median time passed since publication of 
+2.5 years.
+
+In parallel to the collection at the established data centers, and partly
+as a necessity for his own research projects, since 1989 the author
+has collected tabular data from over 1500 publications, about 60% of
+these concerned with radio observations, and the rest with extragalactic
+objects in general. Tables from about 250 publications were recovered
+by the author by means of optical character recognition (OCR). Tables for 
+only about 60 per cent of these 1500 articles are available from the CDS 
+or CATS (cats.sao.ru) catalogue collections.
+
+Examples of accessibility of data from current electronic journals, as well
+as continuing problems with nomenclature of astronomical objects are
+presented. Both problems are counterproductive for the timely integration
+of tabular data in the data center collections. I close with an example
+of active exploitation of electronic tabular data and conclude that
+both, object databases like NED & SIMBAD, as well as catalogue browsers
+like Vizier and CATS, complement each other, and that further human resources
+must be employed to achieve a better coverage of published extragalactic
+data within the Virtual Observatory project.
+
