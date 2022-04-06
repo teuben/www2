@@ -1,0 +1,9 @@
+WWW SYSTEM DIRECTORIES
+-----------------------
+
+/u1/www contains web system configuration files (or anything we don't want
+mirrored).  Public adass files should be placed in the "adass" subdirectory,
+which is a link to the adass subdirectory in the FTP area.  This odd
+structure allows the files to be accessible via both HTTP and FTP.
+
+See /u1/README for details.
