@@ -12,14 +12,14 @@ help:
 	@echo URL2=$(URL2)
 	@echo URL3=$(URL3)
 
+#   should set 'umask 002' in the shell
 GROUP = adass
 
 umask:
 	chgrp -R $(GROUP)
-	chmod -R g+w *.html
 	find . -type d | xargs chmod g+wx
 	find . -type f | xargs chmod g+w
 
 #   only for Peter Teuben.
 pjt:
-	(cd ..; rsync -av www2 pteuben@adass.org:/u1/www/htdocs)
+	rsync -av . pteuben@adass.org:/u1/www/htdocs)
