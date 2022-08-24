@@ -22,4 +22,4 @@ umask:
 
 #   only for Peter Teuben.
 pjt:
-	rsync -av . pteuben@adass.org:/u1/www/htdocs)
+	rsync -av . pteuben@adass.org:/u1/www/htdocs
