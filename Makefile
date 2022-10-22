@@ -20,6 +20,9 @@ umask:
 	find . -type d | xargs chmod g+wx
 	find . -type f | xargs chmod g+w
 
-#   only for Peter Teuben.
+#   only for Peter Teuben to push to adass.org and/or our mirror
 pjt:
 	rsync -av . pteuben@adass.org:/u1/www/htdocs
+
+pjt2:
+	ssh lma "cd public_html/adass/www2; git pull"
