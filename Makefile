@@ -26,3 +26,6 @@ pjt:
 
 pjt2:
 	ssh lma "cd public_html/adass/www2; git pull"
+
+pjt3:
+	ssh lma "cd public_html/adass/www2; make pjt"
