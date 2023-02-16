@@ -18,3 +18,16 @@ structure allows the files to be accessible via both HTTP and FTP.
 See /u1/README for details.
 
 sigh, i've lost all history?
+
+
+Annual Updates
+--------------
+
+Usually after the annual ADASS a few updates should be done as soon as possible:
+
+- move the old ADASS URL to pastven.html
+- add any new to futureven.html , possibly move new URL into index.html
+- update the index.html with the new URL
+- update the POC.html (some rotate off, some new loc comes on)
+- update the loc.html. We usually copy, but the list is also on their new URL
+- any updated for proceedings.html ?
